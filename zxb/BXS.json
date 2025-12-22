@@ -68,43 +68,12 @@
             }
         },
         {
-            "key": "浪酷影视",
-            "name": "🌊浪酷｜APP",
-            "type": 3,
-            "api": "csp_AppRJ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": {
-                "url": "http://v.lkuys.cn"
-            }
-        },
-        {
             "key": "吉米",
             "name": "🎯吉米｜APP",
             "type": 3,
             "api": "csp_AppFox",
             "ext": {
                 "host": "http://fox.tvmao.top"
-            }
-        },
-        {
-            "key": "星空",
-            "name": "⭐星空｜APP",
-            "type": 3,
-            "api": "csp_AppFox",
-            "ext": {
-                "host": "http://fox.qwqfun.com"
-            }
-        },
-        {
-            "key": "极兔",
-            "name": "🐇极兔｜APP",
-            "type": 3,
-            "api": "csp_AppFox",
-            "ext": {
-                "host": "https://www.dhxxfhsz.top",
-                "ver": 2
             }
         },
         {
@@ -123,6 +92,16 @@
             "api": "csp_AppFox",
             "ext": {
                 "host": "https://173220859-1333208043.cos.ap-shanghai.myqcloud.com/1.json",
+                "ver": 2
+            }
+        },
+        {
+            "key": "麒麟",
+            "name": "🦄麒麟｜APP",
+            "type": 3,
+            "api": "csp_AppFox",
+            "ext": {
+                "host": "https://www.70yyw.cc",
                 "ver": 2
             }
         },
@@ -191,32 +170,6 @@
             }
         },
         {
-            "key": "幕启",
-            "name": "🎭幕启｜APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppQi",
-            "ext": {
-                "site": "https://daen-1256234123.cos.ap-shanghai.myqcloud.com/MuQi/mqxh.txt",
-                "dataKey": "37kj83zs1q16jk6t",
-                "dataIv": "37kj83zs1q16jk6t",
-                "version": "120"
-            }
-        },
-        {
-            "key": "蓝鹰",
-            "name": "🦅蓝鹰｜APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppQi",
-            "ext": {
-                "site": "https://lanyinghz.oss-cn-hangzhou.aliyuncs.com/lanyingxmy.txt",
-                "dataKey": "ca94b06ca359d80e",
-                "dataIv": "ca94b06ca359d80e",
-                "version": "120"
-            }
-        },
-        {
             "key": "仓鼠",
             "name": "🐹仓鼠｜APP",
             "type": 3,
@@ -239,30 +192,6 @@
                 "site": "https://jingyu4k-1312635929.cos.ap-nanjing.myqcloud.com/1.json",
                 "dataKey": "AAdgrdghjfgswerA",
                 "dataIv": "AAdgrdghjfgswerA"
-            }
-        },
-        {
-            "key": "热剧",
-            "name": "🔥热剧｜APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppQi",
-            "ext": {
-                "url": "https://www.rebovod.com",
-                "dataKey": "8191A7F47B37882F",
-                "dataIv": "8191A7F47B37882F"
-            }
-        },
-        {
-            "key": "影视",
-            "name": "🎥影视｜APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppQi",
-            "ext": {
-                "site": "https://aysappto.oss-cn-chengdu.aliyuncs.com/qj2.txt",
-                "dataKey": "sada21321sdq231d",
-                "dataIv": "sada21321sdq231d"
             }
         },
         {
@@ -289,6 +218,19 @@
                 "dataKey": "staraugust123456",
                 "dataIv": "staraugust123456",
                 "version": "120"
+            }
+        },
+        {
+            "key": "火花",
+            "name": "🔥火花｜APP",
+            "type": 3,
+            "searchable": 1,
+            "changeable": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "site": "http://php.itcxo.cn/txt/1.txt",
+                "dataKey": "PoiUytRedFghjklm",
+                "dataIv": "PoiUytRedFghjklm"
             }
         },
         {
@@ -370,19 +312,6 @@
             }
         },
         {
-            "key": "星空",
-            "name": "⭐星空｜APP",
-            "type": 3,
-            "searchable": 1,
-            "changeable": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "http://43.154.4.75",
-                "dataKey": "HDk-7CnlK8SQUGLg",
-                "dataIv": "HDk-7CnlK8SQUGLg"
-            }
-        },
-        {
             "key": "冷心",
             "name": "❄️冷心｜APP",
             "type": 3,
@@ -412,22 +341,9 @@
             "changeable": 1,
             "api": "csp_AppGet",
             "ext": {
-                "url": "http://app.ybn-ooo.top",
-                "dataKey": "vcfgytu7654rtyui",
-                "dataIv": "vcfgytu7654rtyui"
-            }
-        },
-        {
-            "key": "柒月",
-            "name": "7️⃣柒月｜APP",
-            "type": 3,
-            "searchable": 1,
-            "changeable": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "https://www.ys.mk",
-                "dataKey": "mayday6770249ash",
-                "dataIv": "mayday6770249ash"
+                "url": "https://www.mfsp4k.top",
+                "dataKey": "1234567887654321",
+                "dataIv": "1234567887654321"
             }
         },
         {
@@ -844,6 +760,21 @@
             }
         },
         {
+            "key": "夸克",
+            "name": "🔬夸克｜4K",
+            "type": 3,
+            "api": "csp_PanWebShareCloudKK",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": {
+                "site": [
+                    "https://www.quarktv.cc"
+                ]
+            }
+        },
+        {
             "key": "清影",
             "name": "🎞️清影｜4K",
             "type": 3,
@@ -932,14 +863,19 @@
             "ext": "./json/123.json"
         },
         {
+            "key": "双星",
+            "name": "🌟双星｜4K弹幕",
+            "type": 3,
+            "api": "csp_ShuangXing",
+            "style": {
+                "type": "list"
+            }
+        },
+        {
             "key": "人人",
             "name": "👥人人｜4K弹幕",
             "type": 3,
-            "api": "csp_RenRen",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1
+            "api": "csp_RenRen"
         },
         {
             "key": "即刻",
@@ -951,13 +887,14 @@
             }
         },
         {
-            "key": "双星",
-            "name": "🌟双星｜4K弹幕",
+            "key": "锦鲤短剧",
+            "name": "🐟锦鲤｜短剧",
             "type": 3,
-            "api": "csp_ShuangXing",
-            "style": {
-                "type": "list"
-            }
+            "api": "csp_JinliDJ",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1
         },
         {
             "key": "笒鬼短剧",
@@ -970,20 +907,30 @@
             "filterable": 1
         },
         {
-            "key": "星芽短剧",
-            "name": "🌱星芽｜短剧",
+            "key": "百度短剧",
+            "name": "🔍百度｜短剧",
             "type": 3,
-            "api": "./py/星芽短剧.py",
+            "api": "csp_BaiduDJ",
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
             "filterable": 1
         },
         {
-            "key": "甜圈短剧",
-            "name": "🍩甜圈｜短剧",
+            "key": "星阁短剧",
+            "name": "✨星阁｜短剧",
             "type": 3,
-            "api": "./py/甜圈短剧.py",
+            "api": "csp_XinggeDJ",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "星芽短剧",
+            "name": "🌱星芽｜短剧",
+            "type": 3,
+            "api": "./py/星芽短剧.py",
             "searchable": 1,
             "changeable": 1,
             "quickSearch": 1,
@@ -1090,6 +1037,13 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
+        },
+        {
+            "key": "韩剧看看",
+            "name": "🇰🇷韩剧｜影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "./XBPQ/韩剧看看.json"
         },
         {
             "key": "莫小影视",
@@ -1346,9 +1300,8 @@
         {
             "key": "荐片",
             "name": "📎荐片｜磁力",
-            "api": "csp_Jianpian",
-            "type": 3,
-            "ext": "https://ev5356.970xw.com"
+            "api": "csp_JianPian",
+            "type": 3
         },
         {
             "key": "修罗",
@@ -1627,16 +1580,34 @@
             "api": "csp_MiSou"
         },
         {
-            "key": "酷乐搜索",
+            "key": "酷乐",
             "name": "🎵酷乐｜搜索",
             "type": 3,
             "api": "csp_KuLe"
         },
         {
-            "key": "鬼鬼搜索",
+            "key": "鬼鬼",
             "name": "👻鬼鬼｜搜索",
             "type": 3,
             "api": "csp_GuiGui"
+        },
+        {
+            "key": "混合",
+            "name": "🔄混合｜搜索",
+            "type": 3,
+            "api": "csp_HunHePan"
+        },
+        {
+            "key": "兄弟",
+            "name": "👬兄弟｜搜索",
+            "type": 3,
+            "api": "csp_XiongDiPan"
+        },
+        {
+            "key": "天翼",
+            "name": "☁️天翼｜搜索",
+            "type": 3,
+            "api": "csp_TianYiSo"
         },
         {
             "key": "趣盘",
@@ -1899,7 +1870,12 @@
     ],
     "parses": [
         {
-            "name": "😋小生┃解析2",
+            "name": "聚合",
+            "type": 3,
+            "url": "Web"
+        },
+        {
+            "name": "😋小生┃解析1",
             "type": 0,
             "url": "https://jx.xmflv.com/?url=",
             "ext": {
@@ -1909,7 +1885,7 @@
             }
         },
         {
-            "name": "😏小生┃解析1",
+            "name": "😏小生┃解析2",
             "type": 0,
             "url": "https://jx.xymp4.cc/?url=",
             "ext": {
