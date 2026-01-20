@@ -1,0 +1,68 @@
+{
+  "lives": [
+    {
+      "name": "😎小生推荐〡老版直播",
+      "type": 0,
+      "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/YSBXS/KLMYS/main/zxb/BXS.txt",
+      "timeout": 10,
+      "playerType": 2
+    },
+    {
+      "name": "😀小生推荐〡新版直播",
+      "type": 0,
+      "url": "https://gh.llkk.cc/https://raw.githubusercontent.com/YSBXS/KLMYS/main/zxb/BXS.m3u",
+      "timeout": 10,
+      "playerType": 2
+    },
+    {
+      "name": "😃小生推荐〡果文直播",
+      "type": 0,
+      "url": "https://hub.gitmirror.com/raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u",
+      "epg": "http://epg.51zmt.top:8000/e.xml",
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "timeout": 10,
+      "playerType": 2
+    },
+    {
+      "name": "😄小生推荐〡慕色直播",
+      "type": 0,
+      "url": "https://sub.ottiptv.cc/iptv.m3u",
+      "epg": "http://epg.51zmt.top:8000/e.xml",
+      "ua": "okHttp/Mod-1.2.0",
+      "timeout": 10,
+      "playerType": 2
+    },
+    {
+      "name": "😆小生推荐〡山东直播",
+      "type": 0,
+      "url": "https://gitee.com/sd-live/zb/raw/master/mySJ",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png",
+      "timeout": 10,
+      "playerType": 2
+    },
+    {
+      "name": "😉小生推荐〡裤佬直播",
+      "type": 0,
+      "url": "https://ghfast.top/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1",
+      "timeout": 10,
+      "playerType": 2
+    },
+    {
+      "name": "😜小生推荐〡范明直播",
+      "type": 0,
+      "url": "https://live.fanmingming.cn/tv/m3u/ipv6.m3u",
+      "timeout": 10,
+      "playerType": 2
+    },
+    {
+      "name": "😝小生推荐〡智能直播",
+      "type": 0,
+      "url": "https://live.zbds.org/tv/iptv4.txt",
+      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "logo": "https://epg.iill.top/logo/{name}.png",
+      "timeout": 10,
+      "playerType": 2
+    }
+  ]
+}

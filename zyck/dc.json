@@ -1,0 +1,8 @@
+{
+    "storeHouse": [
+        {"sourceName":"😢小生推荐〡优选仓","sourceUrl":"https://gh.llkk.cc/https://raw.githubusercontent.com/YSBXS/KLMYS/main/zxck/dy01.json"},
+        {"sourceName":"😊小生推荐〡公众仓","sourceUrl":"https://gh.llkk.cc/https://raw.githubusercontent.com/YSBXS/KLMYS/main/zxck/dy02.json"},
+        {"sourceName":"😰小生推荐〡聚合仓","sourceUrl":"https://gh.llkk.cc/https://raw.githubusercontent.com/YSBXS/KLMYS/main/zxck/dy03.json"},
+        {"sourceName":"😢小生推荐〡本地仓","sourceUrl":"clan://localhost/BXSTVBoxS/小生/BXSDC.json"}
+    ]
+}
