@@ -1,5 +1,5 @@
 {
-    "notice": "百晓生应用市场，每日更新各类影视工具",
+    "notice": "百晓生应用市场，免费更新各类工具",
     "data": [
         {
             "name": "小生推荐",
@@ -621,35 +621,35 @@
                 },
                 {
                     "name": "小生PG美化包",
-                    "version": "2025年10月30日",
+                    "version": "2025.10.30.",
                     "url": "https://drive.uc.cn/s/57a93aee5a974"
                 },
                 {
                     "name": "小生本地包",
-                    "version": "2025年10月30日",
+                    "version": "2025.10.30.",
                     "url": "https://drive.uc.cn/s/723b562daccc4"
                 },
                 {
                     "name": "小生本地仓",
-                    "version": "2025年10月30日",
+                    "version": "2025.10.30.",
                     "url": "https://drive.uc.cn/s/2cb7e789d02a4"
                 },
                 {
                     "name": "小生本地包",
-                    "version": "2025年10月31日",
+                    "version": "2025.10.31.",
                     "url": "https://drive.uc.cn/s/5458bb343e4f4"
                 },
                 {
                     "name": "小生本地包",
-                    "version": "2025年11月10日",
+                    "version": "2025.11.10.",
                     "url": "https://drive.uc.cn/s/74bc8874c9294"
                 },
                 {
                     "name": "小生本地仓",
-                    "version": "2025年11月10日",
+                    "version": "2025.11.10.",
                     "url": "https://drive.uc.cn/s/870c5df014154"
                 }
-              ]
+            ]
         },
         {
             "name": "搬运图片区",
