@@ -18,11 +18,6 @@
                     "name": "百晓生分享",
                     "version": "实时分享区",
                     "url": "https://drive.uc.cn/s/b7954b08f16b4"
-                },
-                {
-                    "name": "微信公众号",
-                    "version": "影视百晓生",
-                    "url": "https://mp.weixin.qq.com"
                 }
             ]
         },
@@ -36,15 +31,262 @@
                     "url": "https://drive.uc.cn/s/c4cef5b9098f4"
                 },
                 {
+                    "name": "酷洛米影视电视版",
+                    "version": "1.0.3",
+                    "subtitle": "配置版",
+                    "url": "https://drive.uc.cn/s/601d1b13d39c4"
+                },
+                {
+                    "name": "酷洛米影视手机版",
+                    "version": "1.0.3",
+                    "subtitle": "配置版",
+                    "url": "https://drive.uc.cn/s/65605a2c93f84"
+                },
+                {
+                    "name": "酷洛米影视电视版",
+                    "version": "1.0.4",
+                    "subtitle": "内置版",
+                    "url": "https://drive.uc.cn/s/871f67c263c44"
+                },
+                {
+                    "name": "酷洛米影视手机版",
+                    "version": "1.0.4",
+                    "subtitle": "内置版",
+                    "url": "https://drive.uc.cn/s/3d858cae41f44"
+                },
+                {
+                    "name": "酷洛米影视32位手机版",
+                    "version": "1.0.5",
+                    "url": "https://drive.uc.cn/s/0fecbfab42274"
+                },
+                {
+                    "name": "酷洛米影视32位电视版",
+                    "version": "1.0.5",
+                    "url": "https://drive.uc.cn/s/9d3c0d5adb2f4"
+                },
+                {
+                    "name": "酷洛米影视64位手机版",
+                    "version": "1.0.5",
+                    "url": "https://drive.uc.cn/s/695438adb26b4"
+                },
+                {
+                    "name": "酷洛米影视64位电视版",
+                    "version": "1.0.5",
+                    "url": "https://drive.uc.cn/s/47577c02c2934"
+                },
+                {
+                    "name": "酷洛米影视32位手机版",
+                    "version": "1.0.6",
+                    "url": "https://drive.uc.cn/s/568496d29b8b4"
+                },
+                {
+                    "name": "酷洛米影视32位电视版",
+                    "version": "1.0.6",
+                    "url": "https://drive.uc.cn/s/2f9b6e2572644"
+                },
+                {
+                    "name": "酷洛米影视64位手机版",
+                    "version": "1.0.6",
+                    "url": "https://drive.uc.cn/s/9d9d59b59d944"
+                },
+                {
+                    "name": "酷洛米影视64位电视版",
+                    "version": "1.0.6",
+                    "url": "https://drive.uc.cn/s/35d9fb8827e94"
+                },
+                {
+                    "name": "酷洛米影视32位手机版",
+                    "version": "1.0.7",
+                    "url": "https://drive.uc.cn/s/f3f66193cbc74"
+                },
+                {
+                    "name": "酷洛米影视32位电视版",
+                    "version": "1.0.7",
+                    "url": "https://drive.uc.cn/s/a85475c922bc4"
+                },
+                {
+                    "name": "酷洛米影视64位手机版",
+                    "version": "1.0.7",
+                    "url": "https://drive.uc.cn/s/77bc666a3e574"
+                },
+                {
+                    "name": "酷洛米影视64位电视版",
+                    "version": "1.0.7",
+                    "url": "https://drive.uc.cn/s/67a548d36e0e4"
+                },
+                {
+                    "name": "酷洛米影视32位手机版",
+                    "version": "1.0.8",
+                    "url": "https://drive.uc.cn/s/1415c68961524"
+                },
+                {
+                    "name": "酷洛米影视32位电视版",
+                    "version": "1.0.8",
+                    "url": "https://drive.uc.cn/s/a3b8803a7d164"
+                },
+                {
+                    "name": "酷洛米影视64位手机版",
+                    "version": "1.0.8",
+                    "url": "https://drive.uc.cn/s/9e07bf855a6a4"
+                },
+                {
+                    "name": "酷洛米影视64位电视版",
+                    "version": "1.0.8",
+                    "url": "https://drive.uc.cn/s/7e94b508b1ed4"
+                },
+                {
+                    "name": "酷洛米影视32位手机版",
+                    "version": "1.0.9",
+                    "url": "https://drive.uc.cn/s/fbaa871b74c94"
+                },
+                {
+                    "name": "酷洛米影视32位电视版",
+                    "version": "1.0.9",
+                    "url": "https://drive.uc.cn/s/e3f604c96ac44"
+                },
+                {
+                    "name": "酷洛米影视64位手机版",
+                    "version": "1.0.9",
+                    "url": "https://drive.uc.cn/s/9b17bd6dc7a94"
+                },
+                {
+                    "name": "酷洛米影视64位电视版",
+                    "version": "1.0.9",
+                    "url": "https://drive.uc.cn/s/fbebf14560aa4"
+                },
+                {
+                    "name": "百晓生白盒",
+                    "version": "3.0.4",
+                    "subtitle": "四版",
+                    "url": "https://drive.uc.cn/s/e40512d328c84"
+                },
+                {
+                    "name": "百晓生白盒",
+                    "version": "3.0.5",
+                    "url": "https://drive.uc.cn/s/9a669a3210ae4"
+                },
+                {
+                    "name": "百晓生白盒",
+                    "version": "3.0.6",
+                    "url": "https://drive.uc.cn/s/d624c502693f4"
+                },
+                {
                     "name": "百晓生白盒",
                     "version": "3.0.8",
-                    "subtitle": "助手版",
+                    "subtitle": "小生助手版",
                     "url": "https://drive.uc.cn/s/9eb4ca0e54444"
+                },
+                {
+                    "name": "百晓生白盒",
+                    "version": "3.0.9",
+                    "subtitle": "小生助手版",
+                    "url": "https://drive.uc.cn/s/bc4c108c40134"
+                },
+                {
+                    "name": "百晓生白盒",
+                    "version": "3.1.0",
+                    "url": "https://drive.uc.cn/s/82219dee30e74"
+                },
+                {
+                    "name": "百晓生白盒python版",
+                    "version": "3.1.2",
+                    "url": "https://drive.uc.cn/s/fedfa2211e324"
+                },
+                {
+                    "name": "百晓生白盒java版",
+                    "version": "3.1.2",
+                    "url": "https://drive.uc.cn/s/45b0f28a9d2e4"
+                },
+                {
+                    "name": "百晓生黑盒",
+                    "version": "2.3.1",
+                    "subtitle": "四版",
+                    "url": "https://drive.uc.cn/s/fa221e4b2fd94"
+                },
+                {
+                    "name": "蓝莓影视省电版",
+                    "version": "2.0.6",
+                    "subtitle": "exo1.4.1",
+                    "url": "https://drive.uc.cn/s/b43425475b0b4"
+                },
+                {
+                    "name": "蓝莓影视省电版",
+                    "version": "2.0.6",
+                    "subtitle": "exo1.6.1",
+                    "url": "https://drive.uc.cn/s/68a47e42a3374"
+                },
+                {
+                    "name": "蓝莓影视省电版",
+                    "version": "2.0.8",
+                    "subtitle": "exo1.4.1",
+                    "url": "https://drive.uc.cn/s/1e459ee3edcf4"
+                },
+                {
+                    "name": "蓝莓影视省电版",
+                    "version": "2.0.8",
+                    "subtitle": "exo1.6.1",
+                    "url": "https://drive.uc.cn/s/9b80010e9d674"
+                },
+                {
+                    "name": "蓝莓影视省电版",
+                    "version": "2.0.9",
+                    "subtitle": "exo1.4.1",
+                    "url": "https://drive.uc.cn/s/7d9ab66c9ef04"
+                },
+                {
+                    "name": "蓝莓影视省电版",
+                    "version": "2.0.9",
+                    "subtitle": "exo1.6.1",
+                    "url": "https://drive.uc.cn/s/223c6e02aca74"
+                },
+                {
+                    "name": "蓝莓影视省电版",
+                    "version": "2.1.1",
+                    "subtitle": "exo1.4.1",
+                    "url": "https://drive.uc.cn/s/5d18db24c4e74"
+                },
+                {
+                    "name": "蓝莓影视省电版",
+                    "version": "2.1.1",
+                    "subtitle": "exo1.6.1",
+                    "url": "https://drive.uc.cn/s/4f159d31ca7d4"
+                },
+                {
+                    "name": "蓝莓影视紫色版",
+                    "version": "2.1.2",
+                    "url": "https://drive.uc.cn/s/44812899dfa24"
+                },
+                {
+                    "name": "蓝莓影视省电版",
+                    "version": "2.1.3",
+                    "url": "https://drive.uc.cn/s/5659d1b054354"
                 },
                 {
                     "name": "蓝莓影视省电版",
                     "version": "2.1.4",
                     "url": "https://drive.uc.cn/s/e6a21367f02e4"
+                },
+                {
+                    "name": "蓝莓影视护眼版",
+                    "version": "1.3.1",
+                    "url": "https://drive.uc.cn/s/bf5f8ae331814"
+                },
+                {
+                    "name": "蓝莓影视护眼版",
+                    "version": "1.3.2",
+                    "subtitle": "exo1.4.1",
+                    "url": "https://drive.uc.cn/s/3e7df6f7f9cc4"
+                },
+                {
+                    "name": "蓝莓影视护眼版",
+                    "version": "1.3.2",
+                    "subtitle": "exo1.6.1",
+                    "url": "https://drive.uc.cn/s/26d6eb5a50fa4"
+                },
+                {
+                    "name": "手机仓绿色版",
+                    "version": "3.2.3",
+                    "url": "https://drive.uc.cn/s/c91e18abccd84"
                 }
             ]
         },
@@ -73,13 +315,339 @@
             "list": [
                 {
                     "name": "小生本地包",
-                    "version": "2025.10.31",
-                    "url": "https://drive.uc.cn/s/5458bb343e4f4"
+                    "version": "2025.06.03",
+                    "url": "https://drive.uc.cn/s/46c38808255d4"
+                },
+                {
+                    "name": "小生本地包",
+                    "version": "2025.06.04",
+                    "url": "https://drive.uc.cn/s/f7ad187b03c14"
+                },
+                {
+                    "name": "小生本地包",
+                    "version": "2025.06.05",
+                    "url": "https://drive.uc.cn/s/3a84584782264"
+                },
+                {
+                    "name": "小生本地包",
+                    "version": "2025.06.08",
+                    "url": "https://drive.uc.cn/s/f1431995cb974"
+                },
+                {
+                    "name": "小生本地包",
+                    "version": "2025.06.09",
+                    "url": "https://drive.uc.cn/s/61e6a4dfaacf4"
+                },
+                {
+                    "name": "小生本地包",
+                    "version": "2025.06.10",
+                    "url": "https://drive.uc.cn/s/e87f8f366aa34"
+                },
+                {
+                    "name": "小生本地包",
+                    "version": "2025.06.11",
+                    "url": "https://drive.uc.cn/s/cccec6c1c60a4"
+                },
+                {
+                    "name": "小生本地包",
+                    "version": "2025.06.12",
+                    "url": "https://drive.uc.cn/s/4f557e2ad6b04"
+                },
+                {
+                    "name": "小生本地包",
+                    "version": "2025.06.13",
+                    "url": "https://drive.uc.cn/s/038f877f712f4"
+                },
+                {
+                    "name": "小生本地包",
+                    "version": "2025.06.14",
+                    "url": "https://drive.uc.cn/s/7a9347f9d36b4"
+                },
+                {
+                    "name": "小生本地包",
+                    "version": "2025.06.15",
+                    "url": "https://drive.uc.cn/s/75b1cb68aee34"
+                },
+                {
+                    "name": "小生本地包",
+                    "version": "2025.06.16",
+                    "url": "https://drive.uc.cn/s/484d315bf8cf4"
+                },
+                {
+                    "name": "小生本地包",
+                    "version": "2025.06.17",
+                    "url": "https://drive.uc.cn/s/ee1f0be41b624"
+                },
+                {
+                    "name": "小生本地包",
+                    "version": "2025.06.18",
+                    "url": "https://drive.uc.cn/s/f16ab5b1ee9f4"
+                },
+                {
+                    "name": "小生本地仓",
+                    "version": "2025.06.19",
+                    "subtitle": "修复包",
+                    "url": "https://drive.uc.cn/s/1d3498d0fc9a4"
+                },
+                {
+                    "name": "小生本地包",
+                    "version": "2025.06.20",
+                    "url": "https://drive.uc.cn/s/197dcc1655fe4"
+                },
+                {
+                    "name": "小生本地包",
+                    "version": "2025.06.23",
+                    "url": "https://drive.uc.cn/s/4897cda5f63e4"
+                },
+                {
+                    "name": "小生本地包",
+                    "version": "2025.06.24",
+                    "url": "https://drive.uc.cn/s/5d4b32c757774"
+                },
+                {
+                    "name": "小生本地包",
+                    "version": "2025.06.26",
+                    "url": "https://drive.uc.cn/s/f72c4b5d103c4"
+                },
+                {
+                    "name": "小生本地包",
+                    "version": "2025.06.28",
+                    "url": "https://drive.uc.cn/s/c5233c2e34184"
+                },
+                {
+                    "name": "小生本地包",
+                    "version": "2025.06.30",
+                    "url": "https://drive.uc.cn/s/5cafc92183004"
+                },
+                {
+                    "name": "小生本地包",
+                    "version": "2025.07.01",
+                    "url": "https://drive.uc.cn/s/4ee70ce3713e4"
+                },
+                {
+                    "name": "小生本地包",
+                    "version": "2025.07.02",
+                    "url": "https://drive.uc.cn/s/4477ea84092c4"
+                },
+                {
+                    "name": "小生本地仓",
+                    "version": "2025.07.03",
+                    "url": "https://drive.uc.cn/s/da938b1651b24"
+                },
+                {
+                    "name": "小生本地包",
+                    "version": "2025.07.04",
+                    "url": "https://drive.uc.cn/s/b17f6f6b6a744"
+                },
+                {
+                    "name": "小生本地包",
+                    "version": "2025.07.05",
+                    "url": "https://drive.uc.cn/s/eeed5b06a7de4"
+                },
+                {
+                    "name": "小生本地仓",
+                    "version": "2025.07.05",
+                    "url": "https://drive.uc.cn/s/f8e24668d93d4"
+                },
+                {
+                    "name": "小生本地包",
+                    "version": "2025.07.09",
+                    "url": "https://drive.uc.cn/s/c96cb603b3d44"
+                },
+                {
+                    "name": "小生本地包",
+                    "version": "2025.07.12",
+                    "url": "https://drive.uc.cn/s/0b98c60b65d04"
+                },
+                {
+                    "name": "小生本地包",
+                    "version": "2025.07.15",
+                    "url": "https://drive.uc.cn/s/46fd8f967bdc4"
+                },
+                {
+                    "name": "小生本地包",
+                    "version": "2025.07.16",
+                    "url": "https://drive.uc.cn/s/290fcac33fdb4"
+                },
+                {
+                    "name": "小生本地包",
+                    "version": "2025.07.21",
+                    "url": "https://drive.uc.cn/s/a27a1f6036dc4"
+                },
+                {
+                    "name": "小生本地包",
+                    "version": "2025.07.23",
+                    "url": "https://drive.uc.cn/s/eaf8257961fe4"
+                },
+                {
+                    "name": "小生本地包",
+                    "version": "2025.07.25",
+                    "url": "https://drive.uc.cn/s/b248282d49c14"
+                },
+                {
+                    "name": "小生本地包",
+                    "version": "2025.07.29",
+                    "url": "https://drive.uc.cn/s/b57af831f4e24"
                 },
                 {
                     "name": "小生PG美化包",
-                    "version": "2025.10.30",
+                    "version": "2025.07.30",
+                    "url": "https://drive.uc.cn/s/4e65ab42d7904"
+                },
+                {
+                    "name": "小生本地仓",
+                    "version": "2025.07.30",
+                    "url": "https://drive.uc.cn/s/ea8c8cf6cc534"
+                },
+                {
+                    "name": "小生本地包",
+                    "version": "2025.07.30",
+                    "url": "https://drive.uc.cn/s/cce2bf406b934"
+                },
+                {
+                    "name": "小生本地包",
+                    "version": "2025.08.02",
+                    "url": "https://drive.uc.cn/s/38dffca8c6154"
+                },
+                {
+                    "name": "小生本地包",
+                    "version": "2025.08.04",
+                    "url": "https://drive.uc.cn/s/5eff62df13e44"
+                },
+                {
+                    "name": "小生本地包",
+                    "version": "2025.08.05",
+                    "url": "https://drive.uc.cn/s/2e9861af2c584"
+                },
+                {
+                    "name": "小生本地仓",
+                    "version": "2025.08.05",
+                    "url": "https://drive.uc.cn/s/172fa0b809794"
+                },
+                {
+                    "name": "小生本地仓",
+                    "version": "2025.08.06",
+                    "url": "https://drive.uc.cn/s/c81e4ac90bcf4"
+                },
+                {
+                    "name": "小生本地包",
+                    "version": "2025.08.06",
+                    "url": "https://drive.uc.cn/s/c615fc95f9bf4"
+                },
+                {
+                    "name": "小生PG美化包",
+                    "version": "2025.08.06",
+                    "url": "https://drive.uc.cn/s/a660eeced19c4"
+                },
+                {
+                    "name": "小生PG美化包",
+                    "version": "2025.08.07",
+                    "url": "https://drive.uc.cn/s/041a8b75238e4"
+                },
+                {
+                    "name": "小生PG美化包",
+                    "version": "2025.08.11",
+                    "url": "https://drive.uc.cn/s/4cc2f6b415c74"
+                },
+                {
+                    "name": "小生本地包",
+                    "version": "2025.08.11",
+                    "url": "https://drive.uc.cn/s/65b9dcfde4794"
+                },
+                {
+                    "name": "小生本地仓",
+                    "version": "2025.08.11",
+                    "url": "https://drive.uc.cn/s/2ccfc30972474"
+                },
+                {
+                    "name": "小生本地包",
+                    "version": "2025.08.14",
+                    "url": "https://drive.uc.cn/s/6c74dd03dafc4"
+                },
+                {
+                    "name": "小生本地包",
+                    "version": "2025.08.15",
+                    "url": "https://drive.uc.cn/s/398950e9b8f24"
+                },
+                {
+                    "name": "小生本地包",
+                    "version": "2025.08.17",
+                    "url": "https://drive.uc.cn/s/0a160b4b79744"
+                },
+                {
+                    "name": "小生本地包",
+                    "version": "2025.08.26",
+                    "url": "https://drive.uc.cn/s/77c25d3fb3114"
+                },
+                {
+                    "name": "小生本地仓",
+                    "version": "2025.08.26",
+                    "url": "https://drive.uc.cn/s/61b881c630a34"
+                },
+                {
+                    "name": "小生本地包",
+                    "version": "2025.08.28",
+                    "url": "https://drive.uc.cn/s/35a7968304144"
+                },
+                {
+                    "name": "小生PG美化包",
+                    "version": "2025.08.29",
+                    "url": "https://drive.uc.cn/s/be88f5406fdb4"
+                },
+                {
+                    "name": "小生PG美化包",
+                    "version": "2025.09.02",
+                    "url": "https://drive.uc.cn/s/0e07864c492a4"
+                },
+                {
+                    "name": "小生本地仓",
+                    "version": "2025.09.02",
+                    "url": "https://drive.uc.cn/s/8f088a73424b4"
+                },
+                {
+                    "name": "小生本地包",
+                    "version": "2025.09.02",
+                    "url": "https://drive.uc.cn/s/308a89ebe7a04"
+                },
+                {
+                    "name": "小生本地包",
+                    "version": "2025.09.04",
+                    "url": "https://drive.uc.cn/s/20f6d24d48c04"
+                },
+                {
+                    "name": "小生本地仓",
+                    "version": "2025.09.04",
+                    "url": "https://drive.uc.cn/s/1f86c44712664"
+                },
+                {
+                    "name": "小生PG美化包",
+                    "version": "2025年10月30日",
                     "url": "https://drive.uc.cn/s/57a93aee5a974"
+                },
+                {
+                    "name": "小生本地包",
+                    "version": "2025年10月30日",
+                    "url": "https://drive.uc.cn/s/723b562daccc4"
+                },
+                {
+                    "name": "小生本地仓",
+                    "version": "2025年10月30日",
+                    "url": "https://drive.uc.cn/s/2cb7e789d02a4"
+                },
+                {
+                    "name": "小生本地包",
+                    "version": "2025年10月31日",
+                    "url": "https://drive.uc.cn/s/5458bb343e4f4"
+                },
+                {
+                    "name": "小生本地包",
+                    "version": "2025年11月10日",
+                    "url": "https://drive.uc.cn/s/74bc8874c9294"
+                },
+                {
+                    "name": "小生本地仓",
+                    "version": "2025年11月10日",
+                    "url": "https://drive.uc.cn/s/870c5df014154"
                 }
             ]
         }
