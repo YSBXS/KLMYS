@@ -1,0 +1,87 @@
+{
+    "notice": "百晓生应用市场，每日更新各类影视工具",
+    "data": [
+        {
+            "name": "小生推荐",
+            "list": [
+                {
+                    "name": "百晓生频道",
+                    "version": "影视兵器谱",
+                    "url": "https://pd.qq.com/s/bskcryo7d"
+                },
+                {
+                    "name": "百晓生抖音",
+                    "version": "影视百晓生",
+                    "url": "https://v.douyin.com/iAwVsx71"
+                },
+                {
+                    "name": "百晓生分享",
+                    "version": "实时分享区",
+                    "url": "https://drive.uc.cn/s/b7954b08f16b4"
+                },
+                {
+                    "name": "微信公众号",
+                    "version": "影视百晓生",
+                    "url": "https://mp.weixin.qq.com"
+                }
+            ]
+        },
+        {
+            "name": "小生魔改区",
+            "list": [
+                {
+                    "name": "酷洛米影视",
+                    "version": "1.0.2",
+                    "subtitle": "配置版",
+                    "url": "https://drive.uc.cn/s/c4cef5b9098f4"
+                },
+                {
+                    "name": "百晓生白盒",
+                    "version": "3.0.8",
+                    "subtitle": "助手版",
+                    "url": "https://drive.uc.cn/s/9eb4ca0e54444"
+                },
+                {
+                    "name": "蓝莓影视省电版",
+                    "version": "2.1.4",
+                    "url": "https://drive.uc.cn/s/e6a21367f02e4"
+                }
+            ]
+        },
+        {
+            "name": "原版壳子区",
+            "list": [
+                {
+                    "name": "OK影视Pro",
+                    "version": "3.7.2",
+                    "url": "https://drive.uc.cn/s/e949a48997ff4"
+                },
+                {
+                    "name": "唐三影视",
+                    "version": "4.8.3",
+                    "url": "https://drive.uc.cn/s/bb240fdbc39d4"
+                },
+                {
+                    "name": "影视仓电视版",
+                    "version": "6.1.6",
+                    "url": "https://drive.uc.cn/s/dc0e9793c4f54"
+                }
+            ]
+        },
+        {
+            "name": "小生本地包",
+            "list": [
+                {
+                    "name": "小生本地包",
+                    "version": "2025.10.31",
+                    "url": "https://drive.uc.cn/s/5458bb343e4f4"
+                },
+                {
+                    "name": "小生PG美化包",
+                    "version": "2025.10.30",
+                    "url": "https://drive.uc.cn/s/57a93aee5a974"
+                }
+            ]
+        }
+    ]
+}
