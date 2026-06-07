@@ -1,13 +1,13 @@
 {
-	"notice": "小生本地包更新了，点击【应用中心】，切换【最新分享】下载",
+	"notice": "百晓生助手【1.1.5】更新了，点击【应用中心】，切换【最新分享】下载",
 	"data": [
 		{
 			"name": "最新分享",
 			"list": [
 				{
-					"name": "小生本地包",
-					"version": "2026.06.02",
-					"url": "https://drive.uc.cn/s/da8ee7c63e2e4"
+					"name": "百晓生助手",
+					"version": "1.1.5",
+					"url": "https://drive.uc.cn/s/fbd07bc676694"
 				}
 			]
 		},
@@ -595,8 +595,8 @@
 				},
 				{
 					"name": "小生本地包",
-					"version": "2026.05.23",
-					"url": "https://drive.uc.cn/s/46d95bb9ecf24"
+					"version": "2026.06.02",
+					"url": "https://drive.uc.cn/s/da8ee7c63e2e4"
 				},
 				{
 					"name": "小生本地仓",
