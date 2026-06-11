@@ -1,5 +1,5 @@
 {
-	"notice": "【最新分享】上新，包含小生本地包、小生本地仓、NewBox、WebHomeTV 全新版本，前往应用中心即可下载",
+	"notice": "【最新分享】上新，包含小生本地包、小生本地仓、白盒、NewBox、WebHomeTV 全新版本，前往应用中心即可下载",
 	"data": [
 		{
 			"name": "最新分享",
@@ -13,6 +13,11 @@
 					"name": "小生本地仓",
 					"version": "2026.06.11",
 					"url": "https://drive.uc.cn/s/983b743243cd4"
+				},
+			    {
+					"name": "白盒",
+					"version": "2026.06.11-1741",
+					"url": "https://drive.uc.cn/s/00f51dd62f6f4"
 				},
 				{
 					"name": "NewBox",
