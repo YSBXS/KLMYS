@@ -5,19 +5,24 @@
 			"name": "最新分享",
 			"list": [
 				{
+					"name": "小生本地包",
+					"version": "2026.06.11",
+					"url": "https://drive.uc.cn/s/2ba52329c10b4"
+				},
+				{
+					"name": "小生本地仓",
+					"version": "2026.06.11",
+					"url": "https://drive.uc.cn/s/983b743243cd4"
+				},
+				{
+					"name": "NewBox",
+					"version": "1.2.4",
+					"url": "https://drive.uc.cn/s/3d896552e8e64"
+				},
+				{
 					"name": "WebHomeTV",
-					"version": "5.5.2_sdk28-202606081425",
-					"url": "https://drive.uc.cn/s/6d900b1839634"
-				},
-				{
-					"name": "NewBox电视版",
-					"version": "1.2.1",
-					"url": "https://drive.uc.cn/s/a52cc09e26494"
-				},
-				{
-					"name": "NewBox手机版",
-					"version": "1.2.2",
-					"url": "https://drive.uc.cn/s/c3a9f525796b4"
+					"version": "5.5.2_sdk28-2026.06.10.2257",
+					"url": "https://drive.uc.cn/s/6310cc22122d4"
 				},
 				{
 					"name": "百晓生助手",
@@ -567,6 +572,16 @@
 					"name": "影视内置MPV播放器手机版",
 					"version": "5.0.3",
 					"url": "https://drive.uc.cn/s/3abbcfbea7524"
+				},
+				{
+					"name": "NewBox",
+					"version": "1.2.3",
+					"url": "https://drive.uc.cn/s/dae24c4d61a14"
+				},
+				{
+					"name": "WebHomeTV",
+					"version": "5.5.2_sdk28-202606081425",
+					"url": "https://drive.uc.cn/s/6d900b1839634"
 				},
 				{
 					"name": "影迷",
