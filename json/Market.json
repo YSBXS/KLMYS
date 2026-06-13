@@ -5,6 +5,11 @@
 			"name": "最新分享",
 			"list": [
 				{
+					"name": "百晓生助手",
+					"version": "1.1.6",
+					"url": "https://drive.uc.cn/s/99bfd374fd7c4"
+				},
+				{
 					"name": "小生本地包",
 					"version": "2026.06.11",
 					"url": "https://drive.uc.cn/s/2ba52329c10b4"
@@ -28,11 +33,6 @@
 					"name": "WebHomeTV",
 					"version": "5.5.2_sdk28-2026.06.10.2257",
 					"url": "https://drive.uc.cn/s/6310cc22122d4"
-				},
-				{
-					"name": "百晓生助手",
-					"version": "1.1.5",
-					"url": "https://drive.uc.cn/s/fbd07bc676694"
 				}
 			]
 		},
@@ -497,6 +497,11 @@
 					"name": "手机仓绿色版",
 					"version": "3.2.3",
 					"url": "https://drive.uc.cn/s/c91e18abccd84"
+				},
+				{
+					"name": "百晓生助手",
+					"version": "1.1.5",
+					"url": "https://drive.uc.cn/s/fbd07bc676694"
 				}
 			]
 		},
