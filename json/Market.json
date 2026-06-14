@@ -1,13 +1,13 @@
 {
-	"notice": "【最新分享】上新，包含小生本地包、小生本地仓、白盒、NewBox、WebHomeTV 全新版本，前往应用中心即可下载",
+	//"notice": "【最新分享】上新，包含小生本地包、小生本地仓、白盒、NewBox、WebHomeTV 全新版本，前往应用中心即可下载",
 	"data": [
 		{
 			"name": "最新分享",
 			"list": [
 				{
 					"name": "百晓生助手",
-					"version": "1.1.6",
-					"url": "https://drive.uc.cn/s/99bfd374fd7c4"
+					"version": "1.1.7",
+					"url": "https://drive.uc.cn/s/2ea9d8b6248b4"
 				},
 				{
 					"name": "小生本地包",
