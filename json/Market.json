@@ -1,5 +1,5 @@
 {
-	//"notice": "【最新分享】上新，包含小生本地包、小生本地仓、白盒、NewBox、WebHomeTV 全新版本，前往应用中心即可下载",
+	"notice": "【最新分享】又上新，白盒、NewBox、WebHomeTV 全新版本，前往应用中心即可下载",
 	"data": [
 		{
 			"name": "最新分享",
@@ -20,19 +20,19 @@
 					"url": "https://drive.uc.cn/s/983b743243cd4"
 				},
 				{
-					"name": "白盒",
-					"version": "2026.06.11-2328",
-					"url": "https://drive.uc.cn/s/4fb1a10589254"
+					"name": "NewBox",
+					"version": "1.2.6",
+					"url": "https://drive.uc.cn/s/6a2cfb4332dd4"
 				},
 				{
-					"name": "NewBox",
-					"version": "1.2.4",
-					"url": "https://drive.uc.cn/s/3d896552e8e64"
+					"name": "白盒",
+					"version": "2026.06.15-2242",
+					"url": "https://drive.uc.cn/s/e09812e626df4"
 				},
 				{
 					"name": "WebHomeTV",
-					"version": "5.5.2_sdk28-2026.06.10.2257",
-					"url": "https://drive.uc.cn/s/6310cc22122d4"
+					"version": "5.5.2-sdk28-2026.06.150755",
+					"url": "https://drive.uc.cn/s/dc7f48229c224"
 				}
 			]
 		},
@@ -617,6 +617,21 @@
 					"name": "猫盒",
 					"version": "20240519_0744",
 					"url": "https://drive.uc.cn/s/2b2431417b154"
+				},
+				{
+					"name": "白盒",
+					"version": "2026.06.11-2328",
+					"url": "https://drive.uc.cn/s/4fb1a10589254"
+				},
+				{
+					"name": "NewBox",
+					"version": "1.2.4",
+					"url": "https://drive.uc.cn/s/3d896552e8e64"
+				},
+				{
+					"name": "WebHomeTV",
+					"version": "5.5.2_sdk28-2026.06.10.2257",
+					"url": "https://drive.uc.cn/s/6310cc22122d4"
 				},
 				{
 					"name": "EasyBox",
