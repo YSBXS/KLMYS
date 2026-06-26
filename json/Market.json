@@ -1,5 +1,5 @@
 {
-    "notice": "最新分享〡2026.06.27，又上新，唐三影视，白盒，前往应用中心即可下载",
+    "notice": "最新分享〡2026.06.27上新，影视仓，唐三影视，白盒，NewBox，前往应用中心即可下载",
     "data": [
         {
             "name": "最新分享",
@@ -8,6 +8,21 @@
                     "name": "白盒",
                     "version": "2026.06.26-1743",
                     "url": "https://drive.uc.cn/s/015e3f62a8794"
+                },
+                {
+                    "name": "NewBox",
+                    "version": "1.3.5",
+                    "url": "https://drive.uc.cn/s/bc3b4dfb56de4"
+                },
+                {
+                    "name": "影视仓电视版",
+                    "version": "6.2.1",
+                    "url": "https://drive.uc.cn/s/befd08f301d84"
+                },
+                {
+                    "name": "影视仓手机版",
+                    "version": "3.3.0",
+                    "url": "https://drive.uc.cn/s/624edb81888f4"
                 },
                 {
                     "name": "唐三影视",
@@ -28,11 +43,6 @@
                     "name": "WebHomeTV",
                     "version": "5.5.2_sdk28-2026.06.260814",
                     "url": "https://drive.uc.cn/s/75358d53f32e4"
-                },
-                {
-                    "name": "NewBox",
-                    "version": "1.3.3",
-                    "url": "https://drive.uc.cn/s/c315c53a045c4"
                 },
                 {
                     "name": "PickTV",
@@ -610,8 +620,8 @@
                 },
                 {
                     "name": "NewBox",
-                    "version": "1.2.9",
-                    "url": "https://drive.uc.cn/s/68b10d34bffc4"
+                    "version": "1.3.3",
+                    "url": "https://drive.uc.cn/s/c315c53a045c4"
                 },
                 {
                     "name": "影迷",
