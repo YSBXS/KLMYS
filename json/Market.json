@@ -1,5 +1,5 @@
 {
-	"notice": "最新分享〡2026.07.05上新WebTV，WebHomeTV，唐三影视，白盒，NewBox，前往应用中心即可下载",
+	"notice": "最新分享〡2026.07.06上新uz影视，WebHomeTV，新影视，iBox，前往应用中心即可下载",
 	"data": [
 		{
 			"name": "最新分享",
@@ -8,6 +8,26 @@
 					"name": "WebTV",
 					"version": "5.5.54",
 					"url": "https://drive.uc.cn/s/8a80a2dfae724"
+				},
+				{
+					"name": "WebHomeTV",
+					"version": "5.5.6-202607061936",
+					"url": "https://drive.uc.cn/s/f87d82ffe95e4"
+				},
+				{
+					"name": "uz影视",
+					"version": "1.6.76",
+					"url": "https://drive.uc.cn/s/92449c630d164"
+				},
+				{
+					"name": "新影视",
+					"version": "5.6.6",
+					"url": "https://drive.uc.cn/s/3c418174d9fe4"
+				},
+				{
+					"name": "iBox",
+					"version": "2.4.6",
+					"url": "https://drive.uc.cn/s/e15b75e9c25c4"
 				},
 				{
 					"name": "NewBox",
@@ -28,11 +48,6 @@
 					"name": "白盒",
 					"version": "2026.07.01-0004",
 					"url": "https://drive.uc.cn/s/4181b29f83234"
-				},
-				{
-					"name": "WebHomeTV",
-					"version": "5.5.6-2026.07.050820",
-					"url": "https://drive.uc.cn/s/4d6928d7c8054"
 				},
 				{
 					"name": "影视仓电视版",
@@ -650,8 +665,8 @@
 				},
 				{
 					"name": "WebHomeTV",
-					"version": "5.5.2_sdk28-2026.06.260814",
-					"url": "https://drive.uc.cn/s/75358d53f32e4"
+					"version": "5.5.6-2026.07.050820",
+					"url": "https://drive.uc.cn/s/4d6928d7c8054"
 				},
 				{
 					"name": "唐三影视",
