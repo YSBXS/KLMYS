@@ -1,9 +1,39 @@
 {
-	"notice": "最新分享〡2026.07.06上新uz影视，WebHomeTV，新影视，iBox，前往应用中心即可下载",
+	"notice": "最新分享〡2026.07.10上新百晓生助手，影视仓手机版，新影视，影视仓手机版，NewBox，百晓生短剧，前往应用中心即可下载",
 	"data": [
 		{
 			"name": "最新分享",
 			"list": [
+				{
+					"name": "影视仓手机版",
+					"version": "3.3.1",
+					"url": "https://drive.uc.cn/s/f6025b7836b24"
+				},
+				{
+					"name": "新影视",
+					"version": "5.6.9",
+					"url": "https://drive.uc.cn/s/a90432875f084"
+				},
+				{
+					"name": "影视仓电视版",
+					"version": "6.2.3",
+					"url": "https://drive.uc.cn/s/658ed8a9d2f24"
+				},
+				{
+					"name": "白盒",
+					"version": "20260709-1630",
+					"url": "https://drive.uc.cn/s/d4249a3574964"
+				},
+				{
+					"name": "百晓生短剧",
+					"version": "1.0.4",
+					"url": "https://drive.uc.cn/s/75df3da777d74"
+				},
+				{
+					"name": "NewBox",
+					"version": "1.4.8",
+					"url": "https://drive.uc.cn/s/1e060871d56d4"
+				},
 				{
 					"name": "WebTV",
 					"version": "5.5.54",
@@ -20,19 +50,9 @@
 					"url": "https://drive.uc.cn/s/92449c630d164"
 				},
 				{
-					"name": "新影视",
-					"version": "5.6.6",
-					"url": "https://drive.uc.cn/s/3c418174d9fe4"
-				},
-				{
 					"name": "iBox",
 					"version": "2.4.6",
 					"url": "https://drive.uc.cn/s/e15b75e9c25c4"
-				},
-				{
-					"name": "NewBox",
-					"version": "1.4.1",
-					"url": "https://drive.uc.cn/s/cceb0c2eb4804"
 				},
 				{
 					"name": "PeekPro",
@@ -43,21 +63,6 @@
 					"name": "唐三影视",
 					"version": "5.5.6",
 					"url": "https://drive.uc.cn/s/286d82f0d52c4"
-				},
-				{
-					"name": "白盒",
-					"version": "2026.07.01-0004",
-					"url": "https://drive.uc.cn/s/4181b29f83234"
-				},
-				{
-					"name": "影视仓电视版",
-					"version": "6.2.1",
-					"url": "https://drive.uc.cn/s/befd08f301d84"
-				},
-				{
-					"name": "影视仓手机版",
-					"version": "3.3.0",
-					"url": "https://drive.uc.cn/s/624edb81888f4"
 				},
 				{
 					"name": "新阅读",
@@ -81,8 +86,8 @@
 				},
 				{
 					"name": "百晓生助手",
-					"version": "1.1.8",
-					"url": "https://drive.uc.cn/s/d1c106937a574"
+					"version": "1.1.9",
+					"url": "https://drive.uc.cn/s/bd0960d7d4ed4"
 				}
 			]
 		},
@@ -682,6 +687,31 @@
 					"name": "NewBox",
 					"version": "1.3.5",
 					"url": "https://drive.uc.cn/s/bc3b4dfb56de4"
+				},
+				{
+					"name": "影视仓电视版",
+					"version": "6.2.1",
+					"url": "https://drive.uc.cn/s/befd08f301d84"
+				},
+				{
+					"name": "影视仓手机版",
+					"version": "3.3.0",
+					"url": "https://drive.uc.cn/s/624edb81888f4"
+				},
+				{
+					"name": "白盒",
+					"version": "2026.07.01-0004",
+					"url": "https://drive.uc.cn/s/4181b29f83234"
+				},
+				{
+					"name": "NewBox",
+					"version": "1.4.1",
+					"url": "https://drive.uc.cn/s/cceb0c2eb4804"
+				},
+				{
+					"name": "新影视",
+					"version": "5.6.6",
+					"url": "https://drive.uc.cn/s/3c418174d9fe4"
 				},
 				{
 					"name": "EasyBox",
