@@ -1,8 +1,53 @@
 {
-	"notice": "最新分享〡2026.07.10上新百晓生助手，影视仓手机版，新影视，影视仓手机版，NewBox，百晓生短剧，前往应用中心即可下载",
+	"notice": "最新分享〡2026.07.16上新PG本地包、AI字幕影视、影视仓电视版、PeekPro、NewBox、白盒、WebTV、WebHomeTV等，前往应用中心即可下载",
 	"data": [
 		{
-			"name": "最新分享",
+			"name": "2026.07.16分享",
+			"list": [
+				{
+					"name": "PG本地包",
+					"version": "20260716-1004",
+					"url": "https://drive.uc.cn/s/30e5f81bb8254"
+				},
+				{
+					"name": "AI字幕影视",
+					"version": "2026-07-16",
+					"url": "https://drive.uc.cn/s/cd40e53e78554"
+				},
+				{
+					"name": "影视仓电视版",
+					"version": "6.2.5",
+					"url": "https://drive.uc.cn/s/5e20ae13f7944"
+				},
+				{
+					"name": "PeekPro",
+					"version": "1.3.3",
+					"url": "https://drive.uc.cn/s/ee17d3b075f14"
+				},
+				{
+					"name": "NewBox",
+					"version": "1.5.5",
+					"url": "https://drive.uc.cn/s/b7d70d4764294"
+				},
+				{
+					"name": "白盒",
+					"version": "20260714-1608",
+					"url": "https://drive.uc.cn/s/b7d70d4764294"
+				},
+				{
+					"name": "WebTV",
+					"version": "5.5.56",
+					"url": "https://drive.uc.cn/s/31a3f7a336c24"
+				},
+				{
+					"name": "WebHomeTV",
+					"version": "5.5.6-202607161050",
+					"url": "https://drive.uc.cn/s/0823c19d95c44"
+				}
+			]
+		},
+		{
+			"name": "2026.07.10分享",
 			"list": [
 				{
 					"name": "影视仓手机版",
