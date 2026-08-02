@@ -1,6 +1,51 @@
 {
-	"notice": "最新分享〡2026.07.25上新AI字幕影视、PeekPro、NewBox、白盒、WebTV、WebHomeTV等，前往应用中心即可下载",
+	"notice": "最新分享〡2026.08.02上新\n百晓生助手 v1.2.2\nNewBox手机版 v1.7.5\nNewBox电视版 v1.8.2\n白盒 v20260730-2340\n唐三影视 v5.5.7\nWebHomeTV v5.5.6-beta-202608012221\nPeekPro v1.5.0\nBXS Box v3.2.0\n前往应用中心即可下载",
 	"data": [
+		{
+			"name": "2026.08.02分享",
+			"list": [
+				{
+					"name": "百晓生助手",
+					"version": "1.2.2",
+					"url": "https://drive.uc.cn/s/70889d9935e34"
+				},
+				{
+					"name": "NewBox手机版",
+					"version": "1.7.5",
+					"url": "https://drive.uc.cn/s/c32a616060704"
+				},
+				{
+					"name": "NewBox电视版",
+					"version": "1.8.2",
+					"url": "https://drive.uc.cn/s/e0c8136211bf4"
+				},
+				{
+					"name": "白盒",
+					"version": "20260730-2340",
+					"url": "https://drive.uc.cn/s/598634faf5f04"
+				},
+				{
+					"name": "唐三影视",
+					"version": "5.5.7",
+					"url": "https://drive.uc.cn/s/b255c8557ae64"
+				},
+				{
+					"name": "WebHomeTV",
+					"version": "5.5.6-beta-202608012221",
+					"url": "https://drive.uc.cn/s/a83add8941504"
+				},
+				{
+					"name": "PeekPro",
+					"version": "1.5.0",
+					"url": "https://drive.uc.cn/s/6e2f2d10cc2d4"
+				},
+				{
+					"name": "BXS Box",
+					"version": "3.2.0",
+					"url": "https://drive.uc.cn/s/88e2fe4100704"
+				}
+			]
+		},
 		{
 			"name": "2026.07.25分享",
 			"list": [
