@@ -1,36 +1,36 @@
 {
 	"notice": "最新分享〡2026.08.05上新\nWebHomeTV v5.5.6-beta-202608041907\nPG本地包 v20260802-1453\n唐三影视 v5.5.9\n白盒 v20260804-1649\nNewBox电视版 v1.8.5\n前往应用中心即可下载",
 	"data": [
-	{
-    "name": "2026.08.05分享",
-    "list": [
-        {
-            "name": "WebHomeTV",
-            "version": "5.5.6-beta-202608041907",
-            "url": "https://drive.uc.cn/s/3416dd6db9444"
-        },
-        {
-            "name": "PG本地包",
-            "version": "20260802-1453",
-            "url": "https://drive.uc.cn/s/d154f5cde07f4"
-        },
-        {
-            "name": "唐三影视",
-            "version": "5.5.9",
-            "url": "https://drive.uc.cn/s/0b2206e2160f4"
-        },
-        {
-            "name": "白盒",
-            "version": "20260804-1649",
-            "url": "https://drive.uc.cn/s/7236a92c845c4"
-        },
-        {
-            "name": "NewBox电视版",
-            "version": "1.8.5",
-            "url": "https://drive.uc.cn/s/840c8a8ecd314"
-        },
-    ],
-},
+		{
+			"name": "2026.08.05分享",
+			"list": [
+				{
+					"name": "WebHomeTV",
+					"version": "5.5.6-beta-202608041907",
+					"url": "https://drive.uc.cn/s/3416dd6db9444"
+				},
+				{
+					"name": "PG本地包",
+					"version": "20260802-1453",
+					"url": "https://drive.uc.cn/s/d154f5cde07f4"
+				},
+				{
+					"name": "唐三影视",
+					"version": "5.5.9",
+					"url": "https://drive.uc.cn/s/0b2206e2160f4"
+				},
+				{
+					"name": "白盒",
+					"version": "20260804-1649",
+					"url": "https://drive.uc.cn/s/7236a92c845c4"
+				},
+				{
+					"name": "NewBox电视版",
+					"version": "1.8.5",
+					"url": "https://drive.uc.cn/s/840c8a8ecd314"
+				}
+			]
+		},
 		{
 			"name": "2026.08.02分享",
 			"list": [
