@@ -1,6 +1,46 @@
 {
-	"notice": "最新分享〡2026.08.24上新\niBox v2.4.8_1\nWebTV v5.9.6\nWebHomeTV正式版 v5.6.0-202608201815\nWebHomeTV测试版 v5.6.0-beta-202608231803\n白盒 v20260821-1729\nPeekPro v1.5.5\nNewBox电视版 v1.9.4\nNewBox手机版 v1.9.6\nPG本地包 v20260817-1610\nuz影视 v1.6.78\n前往应用中心即可下载",
+	"notice": "最新分享〡2026.08.30上新\n默影视测试版 v5.6.0-beta-202608292033\n默影视正式版 v5.6.0-202608281220\nNewBox v1.9.7\nPeekPro v1.5.6+2\n唐三影视 v5.6.3\nWebHomeTV v5.6.0-202608301534\nPG本地包 v20260830-0935\n前往应用中心即可下载",
 	"data": [
+		{
+			"name": "2026.08.30分享",
+			"list": [
+				{
+					"name": "默影视",
+					"version": "5.6.0-beta-202608292033",
+					"url": "https://drive.uc.cn/s/4a112416f8604"
+				},
+				{
+					"name": "默影视",
+					"version": "5.6.0-202608281220",
+					"url": "https://drive.uc.cn/s/eb17c76c42bb4"
+				},
+				{
+					"name": "NewBox",
+					"version": "1.9.7",
+					"url": "https://drive.uc.cn/s/55e4a6846b794"
+				},
+				{
+					"name": "PeekPro",
+					"version": "1.5.6+2",
+					"url": "https://drive.uc.cn/s/c1beb3673fff4"
+				},
+				{
+					"name": "唐三影视",
+					"version": "5.6.3",
+					"url": "https://drive.uc.cn/s/8003a0b641bb4"
+				},
+				{
+					"name": "WebHomeTV",
+					"version": "5.6.0-202608301534",
+					"url": "https://drive.uc.cn/s/f89fb3dabb344"
+				},
+				{
+					"name": "PG本地包",
+					"version": "20260830-0935",
+					"url": "https://drive.uc.cn/s/562a3c6689e34"
+				}
+			]
+		},
 		{
 			"name": "2026.08.24分享",
 			"list": [
