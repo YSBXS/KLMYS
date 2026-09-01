@@ -1,6 +1,36 @@
 {
-	"notice": "最新分享〡2026.08.30上新\n默影视测试版 v5.6.0-beta-202608292033\n默影视正式版 v5.6.0-202608281220\nNewBox v1.9.7\nPeekPro v1.5.6+2\n唐三影视 v5.6.3\nWebHomeTV v5.6.0-202608301534\nPG本地包 v20260830-0935\n前往应用中心即可下载",
+	"notice": "最新分享〡2026.09.01上新\n默影视测试版 v5.6.0-beta-202608312302\nWebHomeTV v5.6.0-202608311100\n白盒 v20260901-1736\nNewBox v2.0.0\nPG本地包 v20260901-1223\n前往应用中心即可下载",
 	"data": [
+		{
+			"name": "2026.09.01分享",
+			"list": [
+				{
+					"name": "默影视",
+					"version": "5.6.0-beta-202608312302",
+					"url": "https://drive.uc.cn/s/c8f32ac443184"
+				},
+				{
+					"name": "WebHomeTV",
+					"version": "5.6.0-202608311100",
+					"url": "https://drive.uc.cn/s/a247ede011814"
+				},
+				{
+					"name": "白盒",
+					"version": "20260901-1736",
+					"url": "https://drive.uc.cn/s/d4e4da0987004"
+				},
+				{
+					"name": "NewBox",
+					"version": "2.0.0",
+					"url": "https://drive.uc.cn/s/8b752919050e4"
+				},
+				{
+					"name": "PG本地包",
+					"version": "20260901-1223",
+					"url": "https://drive.uc.cn/s/dcba287caa394"
+				}
+			]
+		},
 		{
 			"name": "2026.08.30分享",
 			"list": [
