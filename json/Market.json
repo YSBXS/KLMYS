@@ -42,396 +42,6 @@
 			]
 		},
 		{
-			"name": "2026.08.30分享",
-			"list": [
-				{
-					"name": "默影视",
-					"version": "5.6.0-beta-202608292033",
-					"url": "https://drive.uc.cn/s/4a112416f8604"
-				},
-				{
-					"name": "默影视",
-					"version": "5.6.0-202608281220",
-					"url": "https://drive.uc.cn/s/eb17c76c42bb4"
-				},
-				{
-					"name": "NewBox",
-					"version": "1.9.7",
-					"url": "https://drive.uc.cn/s/55e4a6846b794"
-				},
-				{
-					"name": "PeekPro",
-					"version": "1.5.6+2",
-					"url": "https://drive.uc.cn/s/c1beb3673fff4"
-				},
-				{
-					"name": "唐三影视",
-					"version": "5.6.3",
-					"url": "https://drive.uc.cn/s/8003a0b641bb4"
-				},
-				{
-					"name": "WebHomeTV",
-					"version": "5.6.0-202608301534",
-					"url": "https://drive.uc.cn/s/f89fb3dabb344"
-				},
-				{
-					"name": "PG本地包",
-					"version": "20260830-0935",
-					"url": "https://drive.uc.cn/s/562a3c6689e34"
-				}
-			]
-		},
-		{
-			"name": "2026.08.24分享",
-			"list": [
-				{
-					"name": "iBox",
-					"version": "2.4.8_1",
-					"url": "https://drive.uc.cn/s/691c123bad0e4"
-				},
-				{
-					"name": "WebTV",
-					"version": "5.9.6",
-					"url": "https://drive.uc.cn/s/4557d373f25a4"
-				},
-				{
-					"name": "WebHomeTV正式版",
-					"version": "5.6.0-202608201815",
-					"url": "https://drive.uc.cn/s/4917925fc6284"
-				},
-				{
-					"name": "WebHomeTV测试版",
-					"version": "5.6.0-beta-202608231803",
-					"url": "https://drive.uc.cn/s/a4aefd89eacd4"
-				},
-				{
-					"name": "白盒",
-					"version": "20260821-1729",
-					"url": "https://drive.uc.cn/s/9255efd02b2a4"
-				},
-				{
-					"name": "PeekPro",
-					"version": "1.5.5",
-					"url": "https://drive.uc.cn/s/79a871f7ab734"
-				},
-				{
-					"name": "NewBox电视版",
-					"version": "1.9.4",
-					"url": "https://drive.uc.cn/s/35d58f43bf4f4"
-				},
-				{
-					"name": "NewBox手机版",
-					"version": "1.9.6",
-					"url": "https://drive.uc.cn/s/8de2fb945da34"
-				},
-				{
-					"name": "PG本地包",
-					"version": "20260817-1610",
-					"url": "https://drive.uc.cn/s/afbf9074157f4"
-				},
-				{
-					"name": "uz影视",
-					"version": "1.6.78",
-					"url": "https://drive.uc.cn/s/1e80bc7cfaf04"
-				}
-			]
-		},
-		{
-			"name": "2026.08.10分享",
-			"list": [
-				{
-					"name": "PG本地包",
-					"version": "20260810-1958",
-					"url": "https://drive.uc.cn/s/f6b40f87d3fa4"
-				},
-				{
-					"name": "唐三影视",
-					"version": "5.6.1",
-					"url": "https://drive.uc.cn/s/a76932a725674"
-				},
-				{
-					"name": "PeekPro",
-					"version": "1.5.1",
-					"url": "https://drive.uc.cn/s/0bf1d2b2fb7b4"
-				},
-				{
-					"name": "WebHomeTV",
-					"version": "5.5.6-202608072014",
-					"url": "https://drive.uc.cn/s/0f500e0e69284"
-				},
-				{
-					"name": "NewBox电视版",
-					"version": "1.8.6",
-					"url": "https://drive.uc.cn/s/bebcaf52a5cb4"
-				},
-				{
-					"name": "NewBox手机版",
-					"version": "1.8.7",
-					"url": "https://drive.uc.cn/s/79d8bc1e6af04"
-				},
-				{
-					"name": "新影视",
-					"version": "5.7.2",
-					"url": "https://drive.uc.cn/s/c02fc715c6364"
-				},
-				{
-					"name": "影视仓电视版",
-					"version": "6.2.7",
-					"url": "https://drive.uc.cn/s/c4f9c8bb982e4"
-				},
-				{
-					"name": "影视仓手机版",
-					"version": "3.3.7",
-					"url": "https://drive.uc.cn/s/da28dcfb01734"
-				}
-			]
-		},
-		{
-			"name": "2026.08.05分享",
-			"list": [
-				{
-					"name": "WebHomeTV",
-					"version": "5.5.6-beta-202608041907",
-					"url": "https://drive.uc.cn/s/3416dd6db9444"
-				},
-				{
-					"name": "PG本地包",
-					"version": "20260802-1453",
-					"url": "https://drive.uc.cn/s/d154f5cde07f4"
-				},
-				{
-					"name": "唐三影视",
-					"version": "5.5.9",
-					"url": "https://drive.uc.cn/s/0b2206e2160f4"
-				},
-				{
-					"name": "白盒",
-					"version": "20260804-1649",
-					"url": "https://drive.uc.cn/s/7236a92c845c4"
-				},
-				{
-					"name": "NewBox电视版",
-					"version": "1.8.5",
-					"url": "https://drive.uc.cn/s/840c8a8ecd314"
-				}
-			]
-		},
-		{
-			"name": "2026.08.02分享",
-			"list": [
-				{
-					"name": "百晓生助手",
-					"version": "1.2.2",
-					"url": "https://drive.uc.cn/s/70889d9935e34"
-				},
-				{
-					"name": "NewBox手机版",
-					"version": "1.7.5",
-					"url": "https://drive.uc.cn/s/c32a616060704"
-				},
-				{
-					"name": "NewBox电视版",
-					"version": "1.8.2",
-					"url": "https://drive.uc.cn/s/e0c8136211bf4"
-				},
-				{
-					"name": "白盒",
-					"version": "20260730-2340",
-					"url": "https://drive.uc.cn/s/598634faf5f04"
-				},
-				{
-					"name": "唐三影视",
-					"version": "5.5.7",
-					"url": "https://drive.uc.cn/s/b255c8557ae64"
-				},
-				{
-					"name": "WebHomeTV",
-					"version": "5.5.6-beta-202608012221",
-					"url": "https://drive.uc.cn/s/a83add8941504"
-				},
-				{
-					"name": "PeekPro",
-					"version": "1.5.0",
-					"url": "https://drive.uc.cn/s/6e2f2d10cc2d4"
-				},
-				{
-					"name": "BXS Box",
-					"version": "3.2.0",
-					"url": "https://drive.uc.cn/s/88e2fe4100704"
-				}
-			]
-		},
-		{
-			"name": "2026.07.25分享",
-			"list": [
-				{
-					"name": "白盒",
-					"version": "20260715-2319",
-					"url": "https://drive.uc.cn/s/b216a88395e84"
-				},
-				{
-					"name": "NewBox",
-					"version": "1.6.6",
-					"url": "https://drive.uc.cn/s/e16ca3dfafa34"
-				},
-				{
-					"name": "WebTV",
-					"version": "5.5.61",
-					"url": "https://drive.uc.cn/s/2e9477862cd94"
-				},
-				{
-					"name": "WebHomeTV",
-					"version": "5.5.6-beta-202607222235",
-					"url": "https://drive.uc.cn/s/66f261e0682e4"
-				},
-				{
-					"name": "PeekPro",
-					"version": "1.3.8",
-					"url": "https://drive.uc.cn/s/b7a28106387c4"
-				},
-				{
-					"name": "AI字幕影视",
-					"version": "6.4.0 (170)",
-					"url": "https://drive.uc.cn/s/34dee01b803c4"
-				}
-			]
-		},
-		{
-			"name": "2026.07.16分享",
-			"list": [
-				{
-					"name": "PG本地包",
-					"version": "20260716-1004",
-					"url": "https://drive.uc.cn/s/30e5f81bb8254"
-				},
-				{
-					"name": "AI字幕影视",
-					"version": "2026-07-16",
-					"url": "https://drive.uc.cn/s/cd40e53e78554"
-				},
-				{
-					"name": "影视仓电视版",
-					"version": "6.2.5",
-					"url": "https://drive.uc.cn/s/5e20ae13f7944"
-				},
-				{
-					"name": "PeekPro",
-					"version": "1.3.3",
-					"url": "https://drive.uc.cn/s/ee17d3b075f14"
-				},
-				{
-					"name": "NewBox",
-					"version": "1.5.5",
-					"url": "https://drive.uc.cn/s/b7d70d4764294"
-				},
-				{
-					"name": "白盒",
-					"version": "20260714-1608",
-					"url": "https://drive.uc.cn/s/b7d70d4764294"
-				},
-				{
-					"name": "WebTV",
-					"version": "5.5.56",
-					"url": "https://drive.uc.cn/s/31a3f7a336c24"
-				},
-				{
-					"name": "WebHomeTV",
-					"version": "5.5.6-202607161050",
-					"url": "https://drive.uc.cn/s/0823c19d95c44"
-				}
-			]
-		},
-		{
-			"name": "2026.07.10分享",
-			"list": [
-				{
-					"name": "影视仓手机版",
-					"version": "3.3.1",
-					"url": "https://drive.uc.cn/s/f6025b7836b24"
-				},
-				{
-					"name": "新影视",
-					"version": "5.6.9",
-					"url": "https://drive.uc.cn/s/a90432875f084"
-				},
-				{
-					"name": "影视仓电视版",
-					"version": "6.2.3",
-					"url": "https://drive.uc.cn/s/658ed8a9d2f24"
-				},
-				{
-					"name": "白盒",
-					"version": "20260709-1630",
-					"url": "https://drive.uc.cn/s/d4249a3574964"
-				},
-				{
-					"name": "百晓生短剧",
-					"version": "1.0.4",
-					"url": "https://drive.uc.cn/s/75df3da777d74"
-				},
-				{
-					"name": "NewBox",
-					"version": "1.4.8",
-					"url": "https://drive.uc.cn/s/1e060871d56d4"
-				},
-				{
-					"name": "WebTV",
-					"version": "5.5.54",
-					"url": "https://drive.uc.cn/s/8a80a2dfae724"
-				},
-				{
-					"name": "WebHomeTV",
-					"version": "5.5.6-202607061936",
-					"url": "https://drive.uc.cn/s/f87d82ffe95e4"
-				},
-				{
-					"name": "uz影视",
-					"version": "1.6.76",
-					"url": "https://drive.uc.cn/s/92449c630d164"
-				},
-				{
-					"name": "iBox",
-					"version": "2.4.6",
-					"url": "https://drive.uc.cn/s/e15b75e9c25c4"
-				},
-				{
-					"name": "PeekPro",
-					"version": "1.2.9",
-					"url": "https://drive.uc.cn/s/e55a1162b3a24"
-				},
-				{
-					"name": "唐三影视",
-					"version": "5.5.6",
-					"url": "https://drive.uc.cn/s/286d82f0d52c4"
-				},
-				{
-					"name": "新阅读",
-					"version": "3.26.052802",
-					"url": "https://drive.uc.cn/s/17587d874c704"
-				},
-				{
-					"name": "洛雪音乐",
-					"version": "1.8.4",
-					"url": "https://drive.uc.cn/s/099d126db3ff4"
-				},
-				{
-					"name": "PickTV",
-					"version": "1.0.1",
-					"url": "https://drive.uc.cn/s/2d2de4d74b804"
-				},
-				{
-					"name": "AI盒子",
-					"version": "3.3.80",
-					"url": "https://drive.uc.cn/s/868d50f71dcd4"
-				},
-				{
-					"name": "百晓生助手",
-					"version": "1.1.9",
-					"url": "https://drive.uc.cn/s/bd0960d7d4ed4"
-				}
-			]
-		},
-		{
 			"name": "小生推荐",
 			"list": [
 				{
@@ -455,6 +65,11 @@
 					"url": "https://drive.uc.cn/s/2ea9d8b6248b4"
 				},
 				{
+					"name": "PG本地包",
+					"version": "20260830-0935",
+					"url": "https://drive.uc.cn/s/562a3c6689e34"
+				},
+				{
 					"name": "小生本地包",
 					"version": "2026.06.11",
 					"url": "https://drive.uc.cn/s/2ba52329c10b4"
@@ -471,238 +86,8 @@
 			"list": [
 				{
 					"name": "酷洛米影视",
-					"version": "1.0.2",
-					"subtitle": "配置版",
-					"url": "https://drive.uc.cn/s/c4cef5b9098f4"
-				},
-				{
-					"name": "酷洛米影视电视版",
-					"version": "1.0.3",
-					"subtitle": "配置版",
-					"url": "https://drive.uc.cn/s/601d1b13d39c4"
-				},
-				{
-					"name": "酷洛米影视手机版",
-					"version": "1.0.3",
-					"subtitle": "配置版",
-					"url": "https://drive.uc.cn/s/65605a2c93f84"
-				},
-				{
-					"name": "酷洛米影视电视版",
-					"version": "1.0.4",
-					"subtitle": "内置版",
-					"url": "https://drive.uc.cn/s/871f67c263c44"
-				},
-				{
-					"name": "酷洛米影视手机版",
-					"version": "1.0.4",
-					"subtitle": "内置版",
-					"url": "https://drive.uc.cn/s/3d858cae41f44"
-				},
-				{
-					"name": "酷洛米影视32位手机版",
-					"version": "1.0.5",
-					"url": "https://drive.uc.cn/s/0fecbfab42274"
-				},
-				{
-					"name": "酷洛米影视32位电视版",
-					"version": "1.0.5",
-					"url": "https://drive.uc.cn/s/9d3c0d5adb2f4"
-				},
-				{
-					"name": "酷洛米影视64位手机版",
-					"version": "1.0.5",
-					"url": "https://drive.uc.cn/s/695438adb26b4"
-				},
-				{
-					"name": "酷洛米影视64位电视版",
-					"version": "1.0.5",
-					"url": "https://drive.uc.cn/s/47577c02c2934"
-				},
-				{
-					"name": "酷洛米影视32位手机版",
-					"version": "1.0.6",
-					"url": "https://drive.uc.cn/s/568496d29b8b4"
-				},
-				{
-					"name": "酷洛米影视32位电视版",
-					"version": "1.0.6",
-					"url": "https://drive.uc.cn/s/2f9b6e2572644"
-				},
-				{
-					"name": "酷洛米影视64位手机版",
-					"version": "1.0.6",
-					"url": "https://drive.uc.cn/s/9d9d59b59d944"
-				},
-				{
-					"name": "酷洛米影视64位电视版",
-					"version": "1.0.6",
-					"url": "https://drive.uc.cn/s/35d9fb8827e94"
-				},
-				{
-					"name": "酷洛米影视32位手机版",
-					"version": "1.0.7",
-					"url": "https://drive.uc.cn/s/f3f66193cbc74"
-				},
-				{
-					"name": "酷洛米影视32位电视版",
-					"version": "1.0.7",
-					"url": "https://drive.uc.cn/s/a85475c922bc4"
-				},
-				{
-					"name": "酷洛米影视64位手机版",
-					"version": "1.0.7",
-					"url": "https://drive.uc.cn/s/77bc666a3e574"
-				},
-				{
-					"name": "酷洛米影视64位电视版",
-					"version": "1.0.7",
-					"url": "https://drive.uc.cn/s/67a548d36e0e4"
-				},
-				{
-					"name": "酷洛米影视32位手机版",
-					"version": "1.0.8",
-					"url": "https://drive.uc.cn/s/1415c68961524"
-				},
-				{
-					"name": "酷洛米影视32位电视版",
-					"version": "1.0.8",
-					"url": "https://drive.uc.cn/s/a3b8803a7d164"
-				},
-				{
-					"name": "酷洛米影视64位手机版",
-					"version": "1.0.8",
-					"url": "https://drive.uc.cn/s/9e07bf855a6a4"
-				},
-				{
-					"name": "酷洛米影视64位电视版",
-					"version": "1.0.8",
-					"url": "https://drive.uc.cn/s/7e94b508b1ed4"
-				},
-				{
-					"name": "酷洛米影视32位手机版",
-					"version": "1.0.9",
-					"url": "https://drive.uc.cn/s/fbaa871b74c94"
-				},
-				{
-					"name": "酷洛米影视32位电视版",
-					"version": "1.0.9",
-					"url": "https://drive.uc.cn/s/e3f604c96ac44"
-				},
-				{
-					"name": "酷洛米影视64位手机版",
-					"version": "1.0.9",
-					"url": "https://drive.uc.cn/s/9b17bd6dc7a94"
-				},
-				{
-					"name": "酷洛米影视64位电视版",
-					"version": "1.0.9",
-					"url": "https://drive.uc.cn/s/fbebf14560aa4"
-				},
-				{
-					"name": "酷洛米影视64位电视版",
-					"version": "1.1.0",
-					"url": "https://drive.uc.cn/s/25eab68c4ab54"
-				},
-				{
-					"name": "酷洛米影视64位手机版",
-					"version": "1.1.0",
-					"url": "https://drive.uc.cn/s/233a863b40c74"
-				},
-				{
-					"name": "酷洛米影视32位手机版",
-					"version": "1.1.0",
-					"url": "https://drive.uc.cn/s/778c3ad94e314"
-				},
-				{
-					"name": "酷洛米影视32位电视版",
-					"version": "1.1.0",
-					"url": "https://drive.uc.cn/s/bd68f83bb4d04"
-				},
-				{
-					"name": "酷洛米影视32位手机版",
-					"version": "1.1.1",
-					"url": "https://drive.uc.cn/s/b9939f00b8874"
-				},
-				{
-					"name": "酷洛米影视32位电视版",
-					"version": "1.1.1",
-					"url": "https://drive.uc.cn/s/edf376c6c3fa4"
-				},
-				{
-					"name": "酷洛米影视64位手机版",
-					"version": "1.1.1",
-					"url": "https://drive.uc.cn/s/98878f48c11b4"
-				},
-				{
-					"name": "酷洛米影视64位电视版",
-					"version": "1.1.1",
-					"url": "https://drive.uc.cn/s/d67ae871af764"
-				},
-				{
-					"name": "酷洛米影视64位电视版",
-					"version": "1.1.2",
-					"url": "https://drive.uc.cn/s/7b9f5228b2d84"
-				},
-				{
-					"name": "酷洛米影视64位手机版",
-					"version": "1.1.2",
-					"url": "https://drive.uc.cn/s/47807c93ea914"
-				},
-				{
-					"name": "酷洛米影视32位手机版",
-					"version": "1.1.2",
-					"url": "https://drive.uc.cn/s/e1efec8ffeda4"
-				},
-				{
-					"name": "酷洛米影视32位电视版",
-					"version": "1.1.2",
-					"url": "https://drive.uc.cn/s/62e1783eee624"
-				},
-				{
-					"name": "酷洛米影视",
-					"version": "1.1.3",
-					"url": "https://drive.uc.cn/s/04295324e1d64"
-				},
-				{
-					"name": "酷洛米影视",
-					"version": "1.1.4",
-					"url": "https://drive.uc.cn/s/13e1b23676884"
-				},
-				{
-					"name": "酷洛米影视",
-					"version": "1.1.5",
-					"url": "https://drive.uc.cn/s/46803f9660294"
-				},
-				{
-					"name": "酷洛米影视",
-					"version": "1.1.6",
-					"url": "https://drive.uc.cn/s/7eca0293365c4"
-				},
-				{
-					"name": "酷洛米影视",
-					"version": "1.1.7",
-					"url": "https://drive.uc.cn/s/82d9c41a2cc94"
-				},
-				{
-					"name": "酷洛米影视",
 					"version": "1.1.8",
 					"url": "https://drive.uc.cn/s/0f62c9c6f3534"
-				},
-				{
-					"name": "XMBOX64位手机内置版",
-					"version": "3.1.3",
-					"url": "https://drive.uc.cn/s/61a4045993c54"
-				},
-				{
-					"name": "XMBOX64位平板内置版",
-					"version": "3.1.3",
-					"url": "https://drive.uc.cn/s/f7a7b46a82e94"
-				},
-				{
-					"name": "XMBOX32位电视内置版",
-					"version": "3.1.3",
-					"url": "https://drive.uc.cn/s/bb681c11d01b4"
 				},
 				{
 					"name": "XMBOX32位电视内置版",
@@ -727,22 +112,6 @@
 				},
 				{
 					"name": "百晓生白盒",
-					"version": "3.0.5",
-					"url": "https://drive.uc.cn/s/9a669a3210ae4"
-				},
-				{
-					"name": "百晓生白盒",
-					"version": "3.0.6",
-					"url": "https://drive.uc.cn/s/d624c502693f4"
-				},
-				{
-					"name": "百晓生白盒",
-					"version": "3.0.8",
-					"subtitle": "小生助手版",
-					"url": "https://drive.uc.cn/s/9eb4ca0e54444"
-				},
-				{
-					"name": "百晓生白盒",
 					"version": "3.0.9",
 					"subtitle": "小生助手版",
 					"url": "https://drive.uc.cn/s/bc4c108c40134"
@@ -751,26 +120,6 @@
 					"name": "百晓生白盒",
 					"version": "3.1.0",
 					"url": "https://drive.uc.cn/s/82219dee30e74"
-				},
-				{
-					"name": "百晓生白盒python版",
-					"version": "3.1.2",
-					"url": "https://drive.uc.cn/s/fedfa2211e324"
-				},
-				{
-					"name": "百晓生白盒java版",
-					"version": "3.1.2",
-					"url": "https://drive.uc.cn/s/45b0f28a9d2e4"
-				},
-				{
-					"name": "百晓生白盒python版",
-					"version": "3.1.3",
-					"url": "https://drive.uc.cn/s/9385781409ac4"
-				},
-				{
-					"name": "百晓生白盒java版",
-					"version": "3.1.3",
-					"url": "https://drive.uc.cn/s/14ea906f8e454"
 				},
 				{
 					"name": "百晓生白盒python版",
@@ -790,42 +139,6 @@
 				},
 				{
 					"name": "蓝莓影视省电版",
-					"version": "2.0.6",
-					"subtitle": "exo1.4.1",
-					"url": "https://drive.uc.cn/s/b43425475b0b4"
-				},
-				{
-					"name": "蓝莓影视省电版",
-					"version": "2.0.6",
-					"subtitle": "exo1.6.1",
-					"url": "https://drive.uc.cn/s/68a47e42a3374"
-				},
-				{
-					"name": "蓝莓影视省电版",
-					"version": "2.0.8",
-					"subtitle": "exo1.4.1",
-					"url": "https://drive.uc.cn/s/1e459ee3edcf4"
-				},
-				{
-					"name": "蓝莓影视省电版",
-					"version": "2.0.8",
-					"subtitle": "exo1.6.1",
-					"url": "https://drive.uc.cn/s/9b80010e9d674"
-				},
-				{
-					"name": "蓝莓影视省电版",
-					"version": "2.0.9",
-					"subtitle": "exo1.4.1",
-					"url": "https://drive.uc.cn/s/7d9ab66c9ef04"
-				},
-				{
-					"name": "蓝莓影视省电版",
-					"version": "2.0.9",
-					"subtitle": "exo1.6.1",
-					"url": "https://drive.uc.cn/s/223c6e02aca74"
-				},
-				{
-					"name": "蓝莓影视省电版",
 					"version": "2.1.1",
 					"subtitle": "exo1.4.1",
 					"url": "https://drive.uc.cn/s/5d18db24c4e74"
@@ -840,11 +153,6 @@
 					"name": "蓝莓影视紫色版",
 					"version": "2.1.2",
 					"url": "https://drive.uc.cn/s/44812899dfa24"
-				},
-				{
-					"name": "蓝莓影视省电版",
-					"version": "2.1.3",
-					"url": "https://drive.uc.cn/s/5659d1b054354"
 				},
 				{
 					"name": "蓝莓影视省电版",
@@ -880,16 +188,6 @@
 				},
 				{
 					"name": "OK影视32位电视内置版",
-					"version": "3.6.6",
-					"url": "https://drive.uc.cn/s/f9ec4d12a3b04"
-				},
-				{
-					"name": "OK影视64位手机内置版",
-					"version": "3.6.6",
-					"url": "https://drive.uc.cn/s/baa5927794194"
-				},
-				{
-					"name": "OK影视32位电视内置版",
 					"version": "5.0.8",
 					"url": "https://drive.uc.cn/s/85a4aa3638c94"
 				},
@@ -909,9 +207,14 @@
 					"url": "https://drive.uc.cn/s/c91e18abccd84"
 				},
 				{
+					"name": "BXS Box",
+					"version": "3.2.0",
+					"url": "https://drive.uc.cn/s/88e2fe4100704"
+				},
+				{
 					"name": "百晓生助手",
-					"version": "1.1.7",
-					"url": "https://drive.uc.cn/s/2ea9d8b6248b4"
+					"version": "1.2.7",
+					"url": "https://drive.uc.cn/s/2fdcd6afca1c4"
 				}
 			]
 		},
@@ -937,16 +240,6 @@
 					"name": "XMBOX",
 					"version": "3.1.6",
 					"url": "https://drive.uc.cn/s/d222b331e5894"
-				},
-				{
-					"name": "影视仓电视版",
-					"version": "6.1.8",
-					"url": "https://drive.uc.cn/s/186ac4bc3a8a4"
-				},
-				{
-					"name": "影视仓手机版",
-					"version": "3.2.5",
-					"url": "https://drive.uc.cn/s/a148f21a8f384"
 				},
 				{
 					"name": "兔盒",
@@ -1010,53 +303,108 @@
 				},
 				{
 					"name": "WebHomeTV",
-					"version": "5.5.6-2026.07.050820",
-					"url": "https://drive.uc.cn/s/4d6928d7c8054"
+					"version": "5.6.0-202608301534",
+					"url": "https://drive.uc.cn/s/f89fb3dabb344"
 				},
 				{
 					"name": "唐三影视",
-					"version": "5.5.4",
-					"url": "https://drive.uc.cn/s/2206f700b1b84"
-				},
-				{
-					"name": "白盒",
-					"version": "2026.06.26-1743",
-					"url": "https://drive.uc.cn/s/015e3f62a8794"
-				},
-				{
-					"name": "NewBox",
-					"version": "1.3.5",
-					"url": "https://drive.uc.cn/s/bc3b4dfb56de4"
+					"version": "5.6.3",
+					"url": "https://drive.uc.cn/s/8003a0b641bb4"
 				},
 				{
 					"name": "影视仓电视版",
-					"version": "6.2.1",
-					"url": "https://drive.uc.cn/s/befd08f301d84"
+					"version": "6.2.7",
+					"url": "https://drive.uc.cn/s/c4f9c8bb982e4"
 				},
 				{
 					"name": "影视仓手机版",
-					"version": "3.3.0",
-					"url": "https://drive.uc.cn/s/624edb81888f4"
+					"version": "3.3.7",
+					"url": "https://drive.uc.cn/s/da28dcfb01734"
 				},
 				{
 					"name": "白盒",
-					"version": "2026.07.01-0004",
-					"url": "https://drive.uc.cn/s/4181b29f83234"
+					"version": "20260821-1729",
+					"url": "https://drive.uc.cn/s/9255efd02b2a4"
 				},
 				{
 					"name": "NewBox",
-					"version": "1.4.1",
-					"url": "https://drive.uc.cn/s/cceb0c2eb4804"
+					"version": "1.9.7",
+					"url": "https://drive.uc.cn/s/55e4a6846b794"
 				},
 				{
 					"name": "新影视",
-					"version": "5.6.6",
-					"url": "https://drive.uc.cn/s/3c418174d9fe4"
+					"version": "5.7.2",
+					"url": "https://drive.uc.cn/s/c02fc715c6364"
 				},
 				{
 					"name": "EasyBox",
 					"version": "1.6.0",
 					"url": "https://drive.uc.cn/s/884c36c31fb04"
+				},
+				{
+					"name": "默影视",
+					"version": "5.6.0-beta-202608292033",
+					"url": "https://drive.uc.cn/s/4a112416f8604"
+				},
+				{
+					"name": "PeekPro",
+					"version": "1.5.6+2",
+					"url": "https://drive.uc.cn/s/c1beb3673fff4"
+				},
+				{
+					"name": "iBox",
+					"version": "2.4.8_1",
+					"url": "https://drive.uc.cn/s/691c123bad0e4"
+				},
+				{
+					"name": "WebTV",
+					"version": "5.9.6",
+					"url": "https://drive.uc.cn/s/4557d373f25a4"
+				},
+				{
+					"name": "WebHomeTV正式版",
+					"version": "5.6.0-202608201815",
+					"url": "https://drive.uc.cn/s/4917925fc6284"
+				},
+				{
+					"name": "WebHomeTV测试版",
+					"version": "5.6.0-beta-202608231803",
+					"url": "https://drive.uc.cn/s/a4aefd89eacd4"
+				},
+				{
+					"name": "uz影视",
+					"version": "1.6.78",
+					"url": "https://drive.uc.cn/s/1e80bc7cfaf04"
+				},
+				{
+					"name": "AI字幕影视",
+					"version": "2026-07-16",
+					"url": "https://drive.uc.cn/s/cd40e53e78554"
+				},
+				{
+					"name": "百晓生短剧",
+					"version": "1.0.4",
+					"url": "https://drive.uc.cn/s/75df3da777d74"
+				},
+				{
+					"name": "新阅读",
+					"version": "3.26.052802",
+					"url": "https://drive.uc.cn/s/17587d874c704"
+				},
+				{
+					"name": "洛雪音乐",
+					"version": "1.8.4",
+					"url": "https://drive.uc.cn/s/099d126db3ff4"
+				},
+				{
+					"name": "PickTV",
+					"version": "1.0.1",
+					"url": "https://drive.uc.cn/s/2d2de4d74b804"
+				},
+				{
+					"name": "AI盒子",
+					"version": "3.3.80",
+					"url": "https://drive.uc.cn/s/868d50f71dcd4"
 				}
 			]
 		},
@@ -1903,16 +1251,6 @@
 					"name": "1DM Plus",
 					"version": "18.2",
 					"url": "https://drive.uc.cn/s/7f544c516c404"
-				},
-				{
-					"name": "MX Player",
-					"version": "1.97.0",
-					"url": "https://drive.uc.cn/s/35ac67075fc44"
-				},
-				{
-					"name": "MX Player",
-					"version": "1.97.8",
-					"url": "https://drive.uc.cn/s/4455c07d93964"
 				},
 				{
 					"name": "MX Player",
