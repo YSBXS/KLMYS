@@ -1,6 +1,41 @@
 {
-	"notice": "最新分享〡2026.09.07上新\nNewBox v2.0.3\nPG本地包 v20260907-1704\nPeekPro v1.5.7\n默影视测试版 v5.6.0-beta-202609071511\nWebTV v5.10.3\nWebHomeTV v5.6.0-202609061650\n白盒 v20260907-0914\n前往应用中心即可下载",
+	"notice": "最新分享〡2026.09.13上新\nvox本地包 v2026.09.13\n摸鱼本地包 v2026.09.13\n真心本地包 v2026.09.13\nPG本地包 v20260913-1001\n潇洒本地仓 v2026.09.13\n潇洒本地包 v2026.09.13\n前往应用中心即可下载",
 	"data": [
+		{
+			"name": "2026.09.13分享",
+			"list": [
+				{
+					"name": "vox本地包",
+					"version": "2026.09.13",
+					"url": "https://drive.uc.cn/s/8673d5534ef24"
+				},
+				{
+					"name": "摸鱼本地包",
+					"version": "2026.09.13",
+					"url": "https://drive.uc.cn/s/8b9e841974cb4"
+				},
+				{
+					"name": "真心本地包",
+					"version": "2026.09.13",
+					"url": "https://drive.uc.cn/s/587288db2f2f4"
+				},
+				{
+					"name": "PG本地包",
+					"version": "20260913-1001",
+					"url": "https://drive.uc.cn/s/f0816351a60d4"
+				},
+				{
+					"name": "潇洒本地仓",
+					"version": "2026.09.13",
+					"url": "https://drive.uc.cn/s/7c78b2643d714"
+				},
+				{
+					"name": "潇洒本地包",
+					"version": "2026.09.13",
+					"url": "https://drive.uc.cn/s/644766c68ddf4"
+				}
+			]
+		},
 		{
 			"name": "2026.09.07分享",
 			"list": [
