@@ -1,6 +1,41 @@
 {
-	"notice": "最新分享〡2026.09.13上新\nvox本地包 v2026.09.13\n摸鱼本地包 v2026.09.13\n真心本地包 v2026.09.13\nPG本地包 v20260913-1001\n潇洒本地仓 v2026.09.13\n潇洒本地包 v2026.09.13\n前往应用中心即可下载",
+	"notice": "最新分享〡2026.09.15上新\n白盒 v20260914-1520\nWebTV v5.11.2\n默影视 v5.6.0-beta-202609141608\nAudioVideoBox v1.0.2\niBox v2.4.9\nPG本地包 v20260915-1504\n前往应用中心即可下载",
 	"data": [
+		{
+			"name": "2026.09.15分享",
+			"list": [
+				{
+					"name": "白盒",
+					"version": "20260914-1520",
+					"url": "https://drive.uc.cn/s/bbdfec11ffa44"
+				},
+				{
+					"name": "WebTV",
+					"version": "5.11.2",
+					"url": "https://drive.uc.cn/s/7c522785c5344"
+				},
+				{
+					"name": "默影视",
+					"version": "5.6.0-beta-202609141608",
+					"url": "https://drive.uc.cn/s/9e5b85b8b1b44"
+				},
+				{
+					"name": "AudioVideoBox",
+					"version": "1.0.2",
+					"url": "https://drive.uc.cn/s/e8b66577c2e04"
+				},
+				{
+					"name": "iBox",
+					"version": "2.4.9",
+					"url": "https://drive.uc.cn/s/7d95ad9fb1cf4"
+				},
+				{
+					"name": "PG本地包",
+					"version": "20260915-1504",
+					"url": "https://drive.uc.cn/s/d506bf3a17b34"
+				}
+			]
+		},
 		{
 			"name": "2026.09.13分享",
 			"list": [
