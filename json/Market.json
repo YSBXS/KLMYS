@@ -1,6 +1,46 @@
 {
-	"notice": "最新分享〡2026.09.15上新\n白盒 v20260914-1520\nWebTV v5.11.2\n默影视 v5.6.0-beta-202609141608\nAudioVideoBox v1.0.2\niBox v2.4.9\nPG本地包 v20260915-1504\n前往应用中心即可下载",
+	"notice": "最新分享〡2026.09.17上新\n潇洒本地仓 v2026.09.17\n潇洒本地包 v2026.09.17\nAudioVideoBox v1.0.5\n默影视 v5.6.0-beta-202609171553\n白盒 v20260916-1521\nPG本地包 v20260917-1946\nXMBOX v3.1.7\n前往应用中心即可下载",
 	"data": [
+		{
+			"name": "2026.09.17分享",
+			"list": [
+				{
+					"name": "潇洒本地仓",
+					"version": "2026.09.17",
+					"url": "https://drive.uc.cn/s/62a36fe0fdd64"
+				},
+				{
+					"name": "潇洒本地包",
+					"version": "2026.09.17",
+					"url": "https://drive.uc.cn/s/4426fe0fb36c4"
+				},
+				{
+					"name": "AudioVideoBox",
+					"version": "1.0.5",
+					"url": "https://drive.uc.cn/s/4b1824d2d2e64"
+				},
+				{
+					"name": "默影视",
+					"version": "5.6.0-beta-202609171553",
+					"url": "https://drive.uc.cn/s/63dae0fa06a64"
+				},
+				{
+					"name": "白盒",
+					"version": "20260916-1521",
+					"url": "https://drive.uc.cn/s/d361f43addae4"
+				},
+				{
+					"name": "PG本地包",
+					"version": "20260917-1946",
+					"url": "https://drive.uc.cn/s/c1339ece26684"
+				},
+				{
+					"name": "XMBOX",
+					"version": "3.1.7",
+					"url": "https://drive.uc.cn/s/32ae3b2302564"
+				}
+			]
+		},
 		{
 			"name": "2026.09.15分享",
 			"list": [
