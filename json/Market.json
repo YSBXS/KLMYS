@@ -1,6 +1,66 @@
-{
-	"notice": "最新分享〡2026.09.19上新\n百晓生助手 v1.2.8\n潇洒本地仓 v2026.09.19\n潇洒本地包 v2026.09.19\nPG本地包 v20260919-1946\n默影视 v5.6.0-beta-202609191357\nWebHomeTV v5.6.0-202609181748\n白盒 v20260917-2209\nAudioVideoBox v1.0.7\n前往应用中心即可下载",
+﻿{
+	"notice": "最新分享〡2026.09.23上新\n潇洒本地包 v2026.09.22 / 潇洒本地仓 v2026.09.22 / PG本地包 v20260922-1819\n落雪音乐电脑版 v2.12.6 / 落雪音乐手机版 v1.9.1 / 阅读 v3.26.09230200\nAudioVideoBox v1.1.0 / 默影视 v5.6.0-beta-202609221746 / WebTV v5.12.3\n唐三影视开发版 v5.6.3-202609201030 / NewBox v2.0.6\n前往应用中心即可下载",
 	"data": [
+		{
+			"name": "2026.09.22分享",
+			"list": [
+				{
+					"name": "潇洒本地包",
+					"version": "2026.09.22",
+					"url": "https://drive.uc.cn/s/f28c2b09bbfd4"
+				},
+				{
+					"name": "潇洒本地仓",
+					"version": "2026.09.22",
+					"url": "https://drive.uc.cn/s/3b4b6559035f4"
+				},
+				{
+					"name": "落雪音乐电脑版",
+					"version": "2.12.6",
+					"url": "https://drive.uc.cn/s/8846bc3297204"
+				},
+				{
+					"name": "落雪音乐手机版",
+					"version": "1.9.1",
+					"url": "https://drive.uc.cn/s/5c6dc9ec21f94"
+				},
+				{
+					"name": "阅读",
+					"version": "3.26.09230200",
+					"url": "https://drive.uc.cn/s/25f2759c23e94"
+				},
+				{
+					"name": "PG本地包",
+					"version": "20260922-1819",
+					"url": "https://drive.uc.cn/s/90a39c8b8d2e4"
+				},
+				{
+					"name": "AudioVideoBox",
+					"version": "1.1.0",
+					"url": "https://drive.uc.cn/s/a7746c12988b4"
+				},
+				{
+					"name": "默影视",
+					"version": "5.6.0-beta-202609221746",
+					"url": "https://drive.uc.cn/s/b54500d7ed604"
+				},
+				{
+					"name": "WebTV",
+					"version": "5.12.3",
+					"url": "https://drive.uc.cn/s/24cec33722754"
+				},
+				{
+					"name": "唐三影视开发版",
+					"version": "5.6.3-202609201030",
+					"url": "https://drive.uc.cn/s/3cc080798c834"
+				},
+				{
+					"name": "NewBox",
+					"version": "2.0.6",
+					"url": "https://drive.uc.cn/s/a2a7cc539ced4"
+				}
+			]
+		},
 		{
 			"name": "2026.09.19分享",
 			"list": [
