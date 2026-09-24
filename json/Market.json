@@ -1,6 +1,31 @@
 ﻿{
-	"notice": "最新分享〡2026.09.23上新\n潇洒本地包 v2026.09.22\n潇洒本地仓 v2026.09.22\nPG本地包 v20260922-1819\n落雪音乐电脑版 v2.12.6\n落雪音乐手机版 v1.9.1\n阅读 v3.26.09230200\nAudioVideoBox v1.1.0\n默影视 v5.6.0-beta-202609221746\nWebTV v5.12.3\n唐三影视开发版 v5.6.3-202609201030\nNewBox v2.0.6\n前往应用中心即可下载",
+	"notice": "最新分享〡2026.09.24上新\n蚂蚁影视 v2.0.2\nAudioVideoBox v1.1.2\n默影视 v5.6.0-beta-202609232036\nPG本地包 v20260924-1035\n前往应用中心即可下载",
 	"data": [
+		{
+			"name": "2026.09.24分享",
+			"list": [
+				{
+					"name": "蚂蚁影视",
+					"version": "2.0.2",
+					"url": "https://drive.uc.cn/s/97a885f7e6d44"
+				},
+				{
+					"name": "AudioVideoBox",
+					"version": "1.1.2",
+					"url": "https://drive.uc.cn/s/510242a531f04"
+				},
+				{
+					"name": "默影视",
+					"version": "5.6.0-beta-202609232036",
+					"url": "https://drive.uc.cn/s/a26f04a889b74"
+				},
+				{
+					"name": "PG本地包",
+					"version": "20260924-1035",
+					"url": "https://drive.uc.cn/s/bb1ebfcb0cf84"
+				}
+			]
+		},
 		{
 			"name": "2026.09.22分享",
 			"list": [
