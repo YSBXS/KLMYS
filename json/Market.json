@@ -1,6 +1,81 @@
-﻿{
-	"notice": "最新分享〡2026.09.26上新\nPG本地包 v20260925-2234\n白盒 v20260924-2341\n默影视 v5.6.0-beta-202609251527\nAudioVideoBox v1.1.5\n前往应用中心即可下载",
+{
+	"notice": "最新分享〡2026.11.18上新\nPG本地包 v20261118-1000\nAIBOX v0.1.54\n蚂蚁影视 v2.0.6\n影视仓手机版 v3.3.9\n影视仓电视版 v6.2.9\n默影视 v5.6.0-beta-202611181421\n白盒 v20261118-1218\nXMBOX v3.2.0\n唐三影视 v5.8.9\nNewBox v2.1.8\nAudioVideoBox v1.4.0\niBox v2.5.1_5\n短剧之家TV版 v4.6.48-136\n短剧之家手机版 v4.6.23-192\n前往应用中心即可下载",
 	"data": [
+		{
+			"name": "2026.11.18分享",
+			"list": [
+				{
+					"name": "PG本地包",
+					"version": "20261118-1000",
+					"url": "https://drive.uc.cn/s/79aa81a2d4ee4"
+				},
+				{
+					"name": "AIBOX",
+					"version": "0.1.54",
+					"url": "https://drive.uc.cn/s/c1ba57bf28e34"
+				},
+				{
+					"name": "蚂蚁影视",
+					"version": "2.0.6",
+					"url": "https://drive.uc.cn/s/fd4966056c9f4"
+				},
+				{
+					"name": "影视仓手机版",
+					"version": "3.3.9",
+					"url": "https://drive.uc.cn/s/f17e36c5e0264"
+				},
+				{
+					"name": "影视仓电视版",
+					"version": "6.2.9",
+					"url": "https://drive.uc.cn/s/75188b2f1eae4"
+				},
+				{
+					"name": "默影视",
+					"version": "5.6.0-beta-202611181421",
+					"url": "https://drive.uc.cn/s/bb8bb9c8efc24"
+				},
+				{
+					"name": "白盒",
+					"version": "20261118-1218",
+					"url": "https://drive.uc.cn/s/91540af623314"
+				},
+				{
+					"name": "XMBOX",
+					"version": "3.2.0",
+					"url": "https://drive.uc.cn/s/f7acbd2818994"
+				},
+				{
+					"name": "唐三影视",
+					"version": "5.8.9",
+					"url": "https://drive.uc.cn/s/6fb4d1818a6b4"
+				},
+				{
+					"name": "NewBox",
+					"version": "2.1.8",
+					"url": "https://drive.uc.cn/s/45bd7914ef534"
+				},
+				{
+					"name": "AudioVideoBox",
+					"version": "1.4.0",
+					"url": "https://drive.uc.cn/s/e457f8f7c3ed4"
+				},
+				{
+					"name": "iBox",
+					"version": "2.5.1_5",
+					"url": "https://drive.uc.cn/s/1705d9c3bf034"
+				},
+				{
+					"name": "短剧之家TV版",
+					"version": "4.6.48-136",
+					"url": "https://drive.uc.cn/s/f6b8ff929e634"
+				},
+				{
+					"name": "短剧之家手机版",
+					"version": "4.6.23-192",
+					"url": "https://drive.uc.cn/s/bf57b0cadb044"
+				}
+			]
+		},
 		{
 			"name": "2026.09.26分享",
 			"list": [
